@@ -1,0 +1,310 @@
+{
+  "source": "Hello Chinese (Book I).pdf",
+  "origin": "Editor-derived solutions checked against source exercise pages and appendix transcripts. Not a publisher answer key.",
+  "originRu": "Редакторские решения по страницам заданий и текстам аудирования. Это не издательский ключ.",
+  "originalAudioVerified": false,
+  "grading": "Open Chinese answers have many valid paraphrases. automaticGrade:false marks source ambiguity or incomplete evidence.",
+  "lessons": [
+    {
+      "lesson": 5,
+      "exercisePdf": [
+        94
+      ],
+      "transcriptPdf": [
+        309
+      ],
+      "items": [
+        {
+          "n": 1,
+          "answer": "她想吃辣的。",
+          "en": "She wants spicy food.",
+          "ru": "Она хочет острое."
+        },
+        {
+          "n": 2,
+          "answer": "她要一碗米饭。",
+          "en": "She wants one bowl of rice.",
+          "ru": "Она хочет одну миску риса."
+        },
+        {
+          "n": 3,
+          "answer": "她点了两个菜。",
+          "en": "Two dishes are named in the third recording.",
+          "ru": "В третьем фрагменте названы два блюда."
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "exercisePdf": [
+        111
+      ],
+      "transcriptPdf": [
+        309
+      ],
+      "items": [
+        {
+          "n": 1,
+          "answer": true,
+          "en": "He agrees that he is going to see the Oriental Pearl Tower.",
+          "ru": "Он подтверждает, что едет посмотреть Восточную жемчужину."
+        },
+        {
+          "n": 2,
+          "answer": false,
+          "en": "He denies being in China for tourism.",
+          "ru": "Он отрицает, что находится в Китае как турист."
+        },
+        {
+          "n": 3,
+          "answer": true,
+          "en": "He says he is studying Chinese.",
+          "ru": "Он говорит, что изучает китайский."
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "exercisePdf": [
+        127
+      ],
+      "transcriptPdf": [
+        309
+      ],
+      "items": [
+        {
+          "n": 1,
+          "answer": "去。",
+          "en": "Li Ming will join the run.",
+          "ru": "Ли Мин пойдёт бегать."
+        },
+        {
+          "n": 2,
+          "answer": "他正吃饭呢。",
+          "en": "He is eating now.",
+          "ru": "Он сейчас ест."
+        },
+        {
+          "n": 3,
+          "answer": "15921852869",
+          "en": "Read each digit. This is a fictional source exercise number.",
+          "ru": "Читайте по цифрам. Это учебный номер из источника."
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "exercisePdf": [
+        145,
+        146
+      ],
+      "transcriptPdf": [
+        310
+      ],
+      "items": [
+        {
+          "n": 1,
+          "answer": false,
+          "en": "Lunch is declined because Mark has to work.",
+          "ru": "Марк отказывается от обеда, потому что должен работать."
+        },
+        {
+          "n": 2,
+          "answer": true,
+          "en": "Mark explicitly says he works at noon.",
+          "ru": "Марк прямо говорит, что работает в полдень."
+        },
+        {
+          "n": 3,
+          "answer": false,
+          "en": "They arrange 7 pm, not the proposed statement's 8 pm.",
+          "ru": "Они договариваются на 19:00; в утверждении указано 20:00."
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "exercisePdf": [
+        162
+      ],
+      "transcriptPdf": [
+        310
+      ],
+      "items": [
+        {
+          "n": 1,
+          "answer": false,
+          "en": "The woman asks for the convenience store.",
+          "ru": "Женщина спрашивает о магазине у дома."
+        },
+        {
+          "n": 2,
+          "answer": false,
+          "en": "The store is opposite the bank.",
+          "ru": "Магазин находится напротив банка."
+        },
+        {
+          "n": 3,
+          "answer": true,
+          "en": "A café is next to the store.",
+          "ru": "Рядом с магазином находится кафе."
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "exercisePdf": [
+        178
+      ],
+      "transcriptPdf": [
+        310
+      ],
+      "items": [
+        {
+          "n": 1,
+          "answer": "他头有点儿疼。",
+          "en": "He reports a mild headache after rain.",
+          "ru": "Он сообщает, что немного болит голова после дождя."
+        },
+        {
+          "n": 2,
+          "answer": "还没有，他打算去医院看医生。",
+          "en": "He plans to go; a completed visit is not stated.",
+          "ru": "Он только собирается пойти; завершённое посещение не упоминается."
+        },
+        {
+          "n": 3,
+          "answer": "女的说要帮他请假，尚未确认已经请好假。",
+          "automaticGrade": false,
+          "en": "The woman offers to ask for leave. The recording does not confirm the leave request has been completed; use discussion/model feedback.",
+          "ru": "Женщина предлагает попросить освобождение от занятий. Запись не подтверждает завершение просьбы; нужен разбор, а не жёсткая оценка."
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "exercisePdf": [
+        197
+      ],
+      "transcriptPdf": [
+        310,
+        311
+      ],
+      "items": [
+        {
+          "n": 1,
+          "answer": true,
+          "en": "He agrees to accompany her to the library.",
+          "ru": "Он соглашается сопровождать её в библиотеку."
+        },
+        {
+          "n": 2,
+          "answer": false,
+          "en": "He brought his identity card, not a student card.",
+          "ru": "Он принёс удостоверение личности, а не студенческую карту."
+        },
+        {
+          "n": 3,
+          "answer": "五个工作日",
+          "automaticGrade": false,
+          "en": "The script specifies five working days; the statement shortens this to five days. Flag the distinction rather than confidently publishing an official true/false key.",
+          "ru": "В записи — пять рабочих дней, а в утверждении — пять дней. Отметьте различие, не выдавая свой выбор за официальный ключ."
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "exercisePdf": [
+        214
+      ],
+      "transcriptPdf": [
+        311
+      ],
+      "items": [
+        {
+          "n": 1,
+          "answer": "A",
+          "en": "He wants to replace the lost card.",
+          "ru": "Он хочет оформить новую карту вместо потерянной."
+        },
+        {
+          "n": 2,
+          "answer": "A",
+          "en": "Show the passport before filling the form.",
+          "ru": "Сначала показать паспорт, затем заполнить заявление."
+        },
+        {
+          "n": 3,
+          "answer": "A is the likely intended choice, but no exact choice follows from the transcript.",
+          "automaticGrade": false,
+          "en": "The script says it is the 1st and processing takes about 15 days, while options are the 15th or 8th. Around the 16th is the straightforward elapsed-day calculation; treat the source item as imprecise.",
+          "ru": "В записи сегодня 1-е, оформление занимает около 15 дней, а варианты — 15-е или 8-е. При обычном счёте получается примерно 16-е; задание источника неточное."
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "exercisePdf": [
+        230
+      ],
+      "transcriptPdf": [
+        311
+      ],
+      "items": [
+        {
+          "n": 1,
+          "answer": true,
+          "en": "Cleaning the room is requested.",
+          "ru": "Нужно убрать комнату."
+        },
+        {
+          "n": 2,
+          "answer": true,
+          "en": "Washing the clothes is requested.",
+          "ru": "Нужно постирать одежду."
+        },
+        {
+          "n": 3,
+          "answer": true,
+          "en": "The washed clothes should go into the wardrobe.",
+          "ru": "Постиранную одежду нужно положить в шкаф."
+        },
+        {
+          "n": 4,
+          "answer": false,
+          "en": "No cooking is needed because they are going to the cinema.",
+          "ru": "Готовить не нужно, потому что они идут в кино."
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "exercisePdf": [
+        268
+      ],
+      "transcriptPdf": [
+        311
+      ],
+      "items": [
+        {
+          "n": 1,
+          "answer": true,
+          "en": "The baggage claim/check-in context confirms luggage.",
+          "ru": "Контекст сдачи багажа подтверждает наличие багажа."
+        },
+        {
+          "n": 2,
+          "answer": false,
+          "en": "The hotel was booked online.",
+          "ru": "Гостиница забронирована через интернет."
+        },
+        {
+          "n": 3,
+          "answer": true,
+          "en": "The listening transcript says 6:40. The separate lesson dialogue uses 9:40; do not substitute the dialogue for this exercise.",
+          "ru": "В тексте аудирования указано 6:40. В отдельном диалоге урока — 9:40; для этого упражнения нельзя подменять аудирование диалогом."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+# Construction content, version 2
+
+`constructions.json` contains 60 records corresponding one-to-one to `curriculum/curriculum.json` grammar IDs. No source identity was renamed. The first source reference includes the exact original JSON pointer; following references retain the verified PPTX slide, grammar-handout and textbook chapter ranges. These identify the teaching scope, not a claim that the newly written questions are quotations from those documents.
+
+Each record provides a Chinese pedagogical pattern with pinyin, English/Russian pattern labels, a natural paired example, two checked paired examples, an intuitive explanation and contrast, three animation frames, and three original challenge prompts. The recognition challenge uses the two established examples as alternatives; the contextual and transfer challenges contain three newly selected alternatives. Correct option positions rotate deterministically, preserving stable IDs.
+
+The pattern's Chinese role names are labels, not extra words to insert into an actual sentence. Show `patternExample` beside the pattern. Some source entries intentionally cover two related constructions; their paired patterns and challenges preserve that original scope.
+
+Show English/Russian choice translations after answering by default. Displaying them before answering makes many retrieval tasks trivial. Pinyin may remain visible as a learner-controlled scaffold. The number exercises display numeric source amounts rather than spelling their answer in the context.
+
+`sourceExplanation` and `sourcePitfall` preserve the original v1 prose for context/provenance. The new `why`, `contrast`, `patternZh`, `patternPinyin`, `examplePairs`, `animationSteps` and challenge fields are the intended v2 display content. Every Chinese pattern, example, context and option in these display fields has a paired pinyin field. Challenge prompts and explanations are English/Russian. A few options intentionally contrast grammatical correctness; their feedback explicitly identifies the issue.
+
+Difficulty labels distinguish recognition, applying a pattern in context, and transferring it to a new situation. All three are still selected-response evidence: they must not be reported as verified independent speaking or writing. The adaptive route hints require first-attempt success and recommend a lower level after an error; the app implements scheduling and interactions separately. Confirm productive mastery through an independent written or spoken response.
+
+Content safeguards retained: ongoing aspect is not present tense; final-state particles are not universal past markers; location and placement have different word order; ability, circumstances and permission overlap but are distinguished in the relevant scenarios; the sufficiency construction means that a stated action is enough; the trip counter does not necessarily specify a round trip; ordinary whole-number zero gaps differ from decimal digit reading; a positive strong-degree exclamation can be praise. The 12,401 reading follows the Chinese/calculation, avoiding the textbook's mismatched English 12,416.
+
+Regenerate with `python -X utf8 chinese-build/v2/build_constructions.py`. `construction-validation.json` records schema checks, exact coverage, question difficulty counts and correct-answer position counts. Content validation does not claim to test browser behavior or automatic speech assessment.

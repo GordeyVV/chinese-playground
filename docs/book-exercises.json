@@ -1,0 +1,1108 @@
+[
+  {
+    "lesson": 1,
+    "semanticPages": [
+      21,
+      34
+    ],
+    "groups": [
+      {
+        "label": "Practice 1",
+        "pdf": [
+          26
+        ],
+        "tasks": [
+          "Self-introduction",
+          "Complete a personal introduction dialogue"
+        ],
+        "answerType": "open models"
+      },
+      {
+        "label": "Practice 2",
+        "pdf": [
+          30,
+          31
+        ],
+        "tasks": [
+          "Nationalities from pictures",
+          "Four 是 / 也 / 不 blanks"
+        ],
+        "answerType": "picture-dependent and constrained; derived key 是/不/也/也 visually verified"
+      },
+      {
+        "label": "Comprehensive practice",
+        "pdf": [
+          32
+        ],
+        "tasks": [
+          "Listen and read pronunciation contrasts",
+          "Group introductions"
+        ],
+        "answerType": "oral/self-checked or teacher feedback"
+      }
+    ],
+    "extensions": [
+      "Country map",
+      "Names/personal identity",
+      "Social greeting conventions"
+    ],
+    "caveats": [
+      "No complete publisher answer key",
+      "Flag identification requires images"
+    ]
+  },
+  {
+    "lesson": 2,
+    "semanticPages": [
+      35,
+      50
+    ],
+    "groups": [
+      {
+        "label": "Practice 1",
+        "pdf": [
+          41,
+          42
+        ],
+        "tasks": [
+          "Read pictured clocks",
+          "Choose 几/什么, 分/半, 刻/分 in sentences",
+          "Add day-period words to clock expressions",
+          "Answer wake/eat/sleep times personally"
+        ],
+        "answerType": "mixed; clocks need images, personal times open"
+      },
+      {
+        "label": "Practice 2",
+        "pdf": [
+          46
+        ],
+        "tasks": [
+          "Calendar substitution",
+          "Arrival date and partner's birthday"
+        ],
+        "answerType": "mixed calendar facts and open"
+      },
+      {
+        "label": "Comprehensive practice",
+        "pdf": [
+          47
+        ],
+        "tasks": [
+          "Pronunciation contrasts",
+          "Express full date and time",
+          "Describe a day"
+        ],
+        "answerType": "pronunciation/self-check and open models"
+      }
+    ],
+    "extensions": [
+      "24 solar terms culture",
+      "前天/昨天/明天/后天",
+      "早上/上午/中午/下午/晚上",
+      "起床/吃饭/睡觉/运动"
+    ],
+    "caveats": [
+      "Sample calendar is 2015; it is not today's calendar",
+      "The third isolated fill-in 十一点一___ can be grammatically compatible with 分 or 刻 absent a time constraint; do not impose single-answer grading without context"
+    ]
+  },
+  {
+    "lesson": 3,
+    "semanticPages": [
+      51,
+      68
+    ],
+    "groups": [
+      {
+        "label": "Practice 1",
+        "pdf": [
+          57,
+          58
+        ],
+        "tasks": [
+          "Recognise pictures",
+          "Shopping dialogue with given food words",
+          "Picture-dependent sweet/salty descriptions"
+        ],
+        "answerType": "picture-based and open dialogue"
+      },
+      {
+        "label": "Practice 2",
+        "pdf": [
+          63
+        ],
+        "tasks": [
+          "Read six monetary amounts",
+          "Describe size/price with 有点儿 and 太"
+        ],
+        "answerType": "closed amounts with multiple spoken variants; open pictures"
+      },
+      {
+        "label": "Comprehensive practice",
+        "pdf": [
+          64
+        ],
+        "tasks": [
+          "Shopping picture roleplay",
+          "Real purchase report"
+        ],
+        "answerType": "open models/rubric"
+      }
+    ],
+    "extensions": [
+      "Currency denomination images",
+      "Colours",
+      "Polite negotiation",
+      "Classroom expressions PDF68"
+    ],
+    "caveats": [
+      "No actual purchase is required for app practice; a simulated shop meets the linguistic goal",
+      "Source broad classifier and 很 explanations need contextual qualification",
+      "Read currency with valid 元/块 and 角/毛 alternatives"
+    ]
+  },
+  {
+    "lesson": 4,
+    "semanticPages": [
+      69,
+      82
+    ],
+    "groups": [
+      {
+        "label": "Practice 1",
+        "pdf": [
+          74,
+          75
+        ],
+        "tasks": [
+          "Personal family description",
+          "Match age questions to people",
+          "Choose classifier and quantity question word"
+        ],
+        "answerType": "open, picture-based and constrained"
+      },
+      {
+        "label": "Practice 2",
+        "pdf": [
+          78
+        ],
+        "tasks": [
+          "Match occupations and pictures",
+          "Place 在 + location and 都 into five sentence patterns"
+        ],
+        "answerType": "picture labels and sentence-order solutions"
+      },
+      {
+        "label": "Comprehensive practice",
+        "pdf": [
+          79
+        ],
+        "tasks": [
+          "Listen/read family and occupation words",
+          "Complete family/workplace dialogue",
+          "Describe one's family occupations and workplaces"
+        ],
+        "answerType": "pronunciation and open models"
+      }
+    ],
+    "extensions": [
+      "Kinship map",
+      "Occupation picture labels",
+      "Contextual age politeness"
+    ],
+    "caveats": [
+      "Visually verified translation error on PDF73: Chinese 四口人 lists four family members, but English says three; follow the Chinese and enumerated people.",
+      "几/多少 both can ask family quantity; expected beginner form does not make every alternative ungrammatical",
+      "Do not universalise source claim that asking strangers' ages is acceptable"
+    ]
+  }
+,
+{
+  "lesson": 5,
+  "semanticPages": [
+    83,
+    98
+  ],
+  "groups": [
+    {
+      "label": "Practice 1",
+      "pdf": [
+        88,
+        89
+      ],
+      "tasks": [
+        "Order dishes from pictures",
+        "Complete restaurant dialogue"
+      ],
+      "answerType": "open models with supplied menu"
+    },
+    {
+      "label": "Practice 2",
+      "pdf": [
+        93,
+        94
+      ],
+      "tasks": [
+        "Substitute dishes and taste preferences",
+        "Three listening questions"
+      ],
+      "answerType": "mixed open preferences and transcript-derived closed answers"
+    },
+    {
+      "label": "Comprehensive practice",
+      "pdf": [
+        95
+      ],
+      "tasks": [
+        "Listen/read restaurant phrases",
+        "Waiter/customer order and payment roleplay"
+      ],
+      "answerType": "oral/self-check and open roleplay"
+    }
+  ],
+  "extensions": [
+    "Four cuisine traditions cultural note PDF97",
+    "Actual core food words omitted from alphabetical index",
+    "Menu categories dishes/soup/staple food"
+  ],
+  "caveats": [
+    "Food names need not describe actual ingredients literally",
+    "Do not infer food allergies or dietary suitability from mnemonic translations"
+  ],
+  "listeningSolution": {
+    "exercisePdf": 94,
+    "transcriptPdf": [
+      309
+    ],
+    "status": "derived from source transcript; not a publisher key",
+    "answers": [
+      "她想吃辣的。",
+      "她要一碗米饭。",
+      "她点了两个菜。"
+    ]
+  }
+},
+{
+  "lesson": 6,
+  "semanticPages": [
+    99,
+    115
+  ],
+  "groups": [
+    {
+      "label": "Practice 1",
+      "pdf": [
+        105,
+        106
+      ],
+      "tasks": [
+        "Recognise direction signs",
+        "Describe routes on a map",
+        "Complete subway/distance dialogue"
+      ],
+      "answerType": "map-dependent and model dialogue"
+    },
+    {
+      "label": "Practice 2",
+      "pdf": [
+        111
+      ],
+      "tasks": [
+        "Give-recipient-object substitution",
+        "Three listening true/false items"
+      ],
+      "answerType": "pattern practice and transcript-derived true/false"
+    },
+    {
+      "label": "Comprehensive practice",
+      "pdf": [
+        112
+      ],
+      "tasks": [
+        "Listen/read direction vocabulary",
+        "Direction-following game",
+        "Draw campus map and describe routes"
+      ],
+      "answerType": "open spatial task/rubric"
+    }
+  ],
+  "extensions": [
+    "Road-name forms 路/大街/胡同/巷 and compass modifiers PDF114",
+    "Campus places"
+  ],
+  "caveats": [
+    "Use a virtual map/avatar for the eyes-closed direction game",
+    "Example fares and metro routes are learning scenarios, not current travel guidance"
+  ],
+  "listeningSolution": {
+    "exercisePdf": 111,
+    "transcriptPdf": [
+      309
+    ],
+    "status": "derived from source transcript; not a publisher key",
+    "answers": [
+      true,
+      false,
+      true
+    ]
+  }
+}
+,
+{
+  "lesson": 7,
+  "semanticPages": [
+    116,
+    132
+  ],
+  "groups": [
+    {
+      "label": "Practice 1",
+      "pdf": [
+        121,
+        122
+      ],
+      "tasks": [
+        "Describe pictured sports in progress",
+        "Substitute 挺…的 and 可以",
+        "Combine 都/一起/和 with pictures"
+      ],
+      "answerType": "picture descriptions and patterned models"
+    },
+    {
+      "label": "Practice 2",
+      "pdf": [
+        127,
+        128
+      ],
+      "tasks": [
+        "Three listening questions",
+        "Substitute telephone/door/student/passport numbers",
+        "Introduce a friend and shared activities"
+      ],
+      "answerType": "transcript-derived and open models"
+    },
+    {
+      "label": "Comprehensive practice",
+      "pdf": [
+        128,
+        129
+      ],
+      "tasks": [
+        "Listen/read lesson words",
+        "Invite a partner to a shared hobby",
+        "Introduce people in a photo"
+      ],
+      "answerType": "oral roleplay and personal description"
+    }
+  ],
+  "extensions": [
+    "Sports and activity network",
+    "Phone numbers versus quantities",
+    "Changing greeting customs cultural note"
+  ],
+  "caveats": [
+    "Use invented contact/document numbers in practice",
+    "Adjective reduplication is selective and contextual, not an unrestricted operation on every adjective"
+  ],
+  "listeningSolution": {
+    "lesson": 7,
+    "exercisePdf": [
+      127
+    ],
+    "transcriptPdf": [
+      309
+    ],
+    "items": [
+      {
+        "n": 1,
+        "answer": "去。",
+        "en": "Li Ming will join the run.",
+        "ru": "Ли Мин пойдёт бегать."
+      },
+      {
+        "n": 2,
+        "answer": "他正吃饭呢。",
+        "en": "He is eating now.",
+        "ru": "Он сейчас ест."
+      },
+      {
+        "n": 3,
+        "answer": "15921852869",
+        "en": "Read each digit. This is a fictional source exercise number.",
+        "ru": "Читайте по цифрам. Это учебный номер из источника."
+      }
+    ]
+  }
+}
+,
+{
+  "lesson": 8,
+  "semanticPages": [
+    133,
+    150
+  ],
+  "groups": [
+    {
+      "label": "Practice 1",
+      "pdf": [
+        139,
+        140
+      ],
+      "tasks": [
+        "Describe leisure activities from pictures",
+        "Substitute activities and meeting places",
+        "Complete a telephone introduction"
+      ],
+      "answerType": "picture-based and open dialogue models"
+    },
+    {
+      "label": "Practice 2",
+      "pdf": [
+        145,
+        146
+      ],
+      "tasks": [
+        "Complete dialogue question/answer table",
+        "Three listening true/false items",
+        "Telephone invitation roleplay"
+      ],
+      "answerType": "open models plus transcript-derived judgements"
+    },
+    {
+      "label": "Comprehensive practice",
+      "pdf": [
+        147
+      ],
+      "tasks": [
+        "Listen/read appointment phrases",
+        "Agree an activity, time and meeting place by simulated phone"
+      ],
+      "answerType": "oral/rubric"
+    }
+  ],
+  "extensions": [
+    "Activities matched with suitable venues",
+    "Weather as small talk",
+    "Contemporary culture note about entertainment"
+  ],
+  "caveats": [
+    "Source English sometimes drops uncertainty conveyed by 可能; preserve it in learner explanations",
+    "Calling is a simulated activity, not an instruction to contact anyone"
+  ],
+  "listeningSolution": {
+    "lesson": 8,
+    "exercisePdf": [
+      145,
+      146
+    ],
+    "transcriptPdf": [
+      310
+    ],
+    "items": [
+      {
+        "n": 1,
+        "answer": false,
+        "en": "Lunch is declined because Mark has to work.",
+        "ru": "Марк отказывается от обеда, потому что должен работать."
+      },
+      {
+        "n": 2,
+        "answer": true,
+        "en": "Mark explicitly says he works at noon.",
+        "ru": "Марк прямо говорит, что работает в полдень."
+      },
+      {
+        "n": 3,
+        "answer": false,
+        "en": "They arrange 7 pm, not the proposed statement's 8 pm.",
+        "ru": "Они договариваются на 19:00; в утверждении указано 20:00."
+      }
+    ]
+  }
+},
+{
+  "lesson": 9,
+  "semanticPages": [
+    151,
+    166
+  ],
+  "groups": [
+    {
+      "label": "Practice 1",
+      "pdf": [
+        156,
+        157
+      ],
+      "tasks": [
+        "Location substitution from pictures",
+        "Describe items in a room",
+        "Complete a lost-book dialogue"
+      ],
+      "answerType": "spatial picture task and open models"
+    },
+    {
+      "label": "Practice 2",
+      "pdf": [
+        161,
+        162
+      ],
+      "tasks": [
+        "Describe a neighbourhood map",
+        "Three listening true/false items"
+      ],
+      "answerType": "map-grounded models and transcript-derived judgements"
+    },
+    {
+      "label": "Comprehensive practice",
+      "pdf": [
+        163
+      ],
+      "tasks": [
+        "Listen/read localisers",
+        "Choose a place and describe its position",
+        "Draw a neighbourhood map"
+      ],
+      "answerType": "open map task/rubric"
+    }
+  ],
+  "extensions": [
+    "Contrast object 在 place with place 有 object",
+    "Compass compounds in geographical names",
+    "Object search as stateful interactive scene"
+  ],
+  "caveats": [
+    "Map direction depends on the illustrated compass",
+    "Keep locative negation 不在 and absence 没有 separate",
+    "Target Hanzi final line is 边看着急玩, not repeated 看"
+  ],
+  "listeningSolution": {
+    "lesson": 9,
+    "exercisePdf": [
+      162
+    ],
+    "transcriptPdf": [
+      310
+    ],
+    "items": [
+      {
+        "n": 1,
+        "answer": false,
+        "en": "The woman asks for the convenience store.",
+        "ru": "Женщина спрашивает о магазине у дома."
+      },
+      {
+        "n": 2,
+        "answer": false,
+        "en": "The store is opposite the bank.",
+        "ru": "Магазин находится напротив банка."
+      },
+      {
+        "n": 3,
+        "answer": true,
+        "en": "A café is next to the store.",
+        "ru": "Рядом с магазином находится кафе."
+      }
+    ]
+  }
+}
+,
+{
+  "lesson": 10,
+  "semanticPages": [
+    167,
+    183
+  ],
+  "groups": [
+    {
+      "label": "Practice 1",
+      "pdf": [
+        172,
+        173
+      ],
+      "tasks": [
+        "Name pictured symptoms",
+        "Complete symptom question/answer table",
+        "Create dialogue from picture"
+      ],
+      "answerType": "picture-based and open models"
+    },
+    {
+      "label": "Practice 2",
+      "pdf": [
+        178,
+        179
+      ],
+      "tasks": [
+        "Substitute symptom, degree, plan and need phrases",
+        "Three listening questions",
+        "Complete illustrated illness narrative"
+      ],
+      "answerType": "mixed patterned models and transcript evidence"
+    },
+    {
+      "label": "Comprehensive practice",
+      "pdf": [
+        180
+      ],
+      "tasks": [
+        "Listen/read health vocabulary",
+        "Doctor/patient language roleplay",
+        "Describe what one does when unwell"
+      ],
+      "answerType": "communication rubric; no diagnosis grading"
+    }
+  ],
+  "extensions": [
+    "Body map",
+    "Traditional diagnostic-method culture note PDF182",
+    "Action + 就可以了 as sufficiency"
+  ],
+  "caveats": [
+    "Medical dialogue is language material; doses, injections and implied illness causes are not medical guidance",
+    "Listening #3 does not confirm completed leave request"
+  ],
+  "listeningSolution": {
+    "lesson": 10,
+    "exercisePdf": [
+      178
+    ],
+    "transcriptPdf": [
+      310
+    ],
+    "items": [
+      {
+        "n": 1,
+        "answer": "他头有点儿疼。",
+        "en": "He reports a mild headache after rain.",
+        "ru": "Он сообщает, что немного болит голова после дождя."
+      },
+      {
+        "n": 2,
+        "answer": "还没有，他打算去医院看医生。",
+        "en": "He plans to go; a completed visit is not stated.",
+        "ru": "Он только собирается пойти; завершённое посещение не упоминается."
+      },
+      {
+        "n": 3,
+        "answer": "女的说要帮他请假，尚未确认已经请好假。",
+        "automaticGrade": false,
+        "en": "The woman offers to ask for leave. The recording does not confirm the leave request has been completed; use discussion/model feedback.",
+        "ru": "Женщина предлагает попросить освобождение от занятий. Запись не подтверждает завершение просьбы; нужен разбор, а не жёсткая оценка."
+      }
+    ]
+  }
+},
+{
+  "lesson": 11,
+  "semanticPages": [
+    184,
+    200
+  ],
+  "groups": [
+    {
+      "label": "Practice 1",
+      "pdf": [
+        190,
+        191
+      ],
+      "tasks": [
+        "Match pictured abilities/actions",
+        "Substitute 会/能 sentences",
+        "Answer six personal ability questions"
+      ],
+      "answerType": "picture-based and open self-description"
+    },
+    {
+      "label": "Practice 2",
+      "pdf": [
+        196,
+        197
+      ],
+      "tasks": [
+        "Recognise identification/card types",
+        "Substitute borrowing/card/skill phrases",
+        "Three listening true/false statements"
+      ],
+      "answerType": "picture-based, patterned and transcript evidence"
+    },
+    {
+      "label": "Comprehensive practice",
+      "pdf": [
+        197
+      ],
+      "tasks": [
+        "Listen/read library vocabulary",
+        "Librarian/student conversation"
+      ],
+      "answerType": "oral roleplay/rubric"
+    }
+  ],
+  "extensions": [
+    "Skill versus situational permission/capacity",
+    "Card/application workflow",
+    "Paper and printing historical culture note"
+  ],
+  "caveats": [
+    "Actual 填申请表就可以了 PDF188 is sufficiency; the index gloss of 就 as preposition/as soon as is misleading here",
+    "Five working days is not necessarily five calendar days",
+    "Source processing times are fictional/historical scenarios"
+  ],
+  "listeningSolution": {
+    "lesson": 11,
+    "exercisePdf": [
+      197
+    ],
+    "transcriptPdf": [
+      310,
+      311
+    ],
+    "items": [
+      {
+        "n": 1,
+        "answer": true,
+        "en": "He agrees to accompany her to the library.",
+        "ru": "Он соглашается сопровождать её в библиотеку."
+      },
+      {
+        "n": 2,
+        "answer": false,
+        "en": "He brought his identity card, not a student card.",
+        "ru": "Он принёс удостоверение личности, а не студенческую карту."
+      },
+      {
+        "n": 3,
+        "answer": "五个工作日",
+        "automaticGrade": false,
+        "en": "The script specifies five working days; the statement shortens this to five days. Flag the distinction rather than confidently publishing an official true/false key.",
+        "ru": "В записи — пять рабочих дней, а в утверждении — пять дней. Отметьте различие, не выдавая свой выбор за официальный ключ."
+      }
+    ]
+  }
+}
+,
+{
+  "lesson": 12,
+  "semanticPages": [
+    201,
+    218
+  ],
+  "groups": [
+    {
+      "label": "Practice 1",
+      "pdf": [
+        207,
+        208
+      ],
+      "tasks": [
+        "Recognise currencies, exchange rate and document images",
+        "Complete a group currency/rate table and discuss preferences",
+        "Describe an exchange transaction using guiding questions"
+      ],
+      "answerType": "picture-based and open scenario"
+    },
+    {
+      "label": "Practice 2",
+      "pdf": [
+        213,
+        214
+      ],
+      "tasks": [
+        "Complete pictured intention sentences",
+        "Sequence three errands with 首先…然后…",
+        "Three listening multiple-choice items"
+      ],
+      "answerType": "patterned, open sequencing and transcript evidence"
+    },
+    {
+      "label": "Comprehensive practice",
+      "pdf": [
+        215
+      ],
+      "tasks": [
+        "Listen/read banking vocabulary",
+        "Describe a home currency and an example rate",
+        "Bank clerk/client roleplay"
+      ],
+      "answerType": "oral roleplay/rubric"
+    }
+  ],
+  "extensions": [
+    "Large-number place-value regrouping into 万",
+    "Times versus complete repetitions versus journeys: 次 / 遍 / 趟",
+    "Money as cultural history, PDF217"
+  ],
+  "caveats": [
+    "PDF206 English 12,416 conflicts with Chinese 一万两千四百零一点六 PDF204–205; correct is12,401.6 (=2000×6.2008)",
+    "Exchange rates, documents and time estimates are source-era scenarios, not current guidance",
+    "Listening third item's about15days from the1st does not entail an exact date; avoid rigid automatic marking"
+  ],
+  "listeningSolution": {
+    "lesson": 12,
+    "exercisePdf": [
+      214
+    ],
+    "transcriptPdf": [
+      311
+    ],
+    "items": [
+      {
+        "n": 1,
+        "answer": "A",
+        "en": "He wants to replace the lost card.",
+        "ru": "Он хочет оформить новую карту вместо потерянной."
+      },
+      {
+        "n": 2,
+        "answer": "A",
+        "en": "Show the passport before filling the form.",
+        "ru": "Сначала показать паспорт, затем заполнить заявление."
+      },
+      {
+        "n": 3,
+        "answer": "A is the likely intended choice, but no exact choice follows from the transcript.",
+        "automaticGrade": false,
+        "en": "The script says it is the 1st and processing takes about 15 days, while options are the 15th or 8th. Around the 16th is the straightforward elapsed-day calculation; treat the source item as imprecise.",
+        "ru": "В записи сегодня 1-е, оформление занимает около 15 дней, а варианты — 15-е или 8-е. При обычном счёте получается примерно 16-е; задание источника неточное."
+      }
+    ]
+  }
+},
+{
+  "lesson": 13,
+  "semanticPages": [
+    219,
+    235
+  ],
+  "groups": [
+    {
+      "label": "Practice 1",
+      "pdf": [
+        224,
+        225
+      ],
+      "tasks": [
+        "Match pictures to chores",
+        "Rewrite three actions with 把…一下"
+      ],
+      "answerType": "picture-based and controlled transformation"
+    },
+    {
+      "label": "Practice 2",
+      "pdf": [
+        230,
+        231
+      ],
+      "tasks": [
+        "Answer personal shopping, fruit and cleaning questions",
+        "Four listening true/false statements",
+        "Plan a birthday gathering and where objects should go"
+      ],
+      "answerType": "open response, transcript evidence and picture-based planning"
+    },
+    {
+      "label": "Comprehensive practice",
+      "pdf": [
+        232
+      ],
+      "tasks": [
+        "Listen/read chores vocabulary",
+        "Customer/waiter picture roleplay using 把",
+        "Describe helping a friend clean and compare number of 把 sentences"
+      ],
+      "answerType": "oral roleplay/rubric"
+    }
+  ],
+  "extensions": [
+    "Move an identified object into a result/place: 把 + object + action + 在/到",
+    "Party preparation with groceries, tableware and wardrobe",
+    "Contextualise the source housework culture note PDF234"
+  ],
+  "caveats": [
+    "The birthday planning task has multiple valid objects and positions",
+    "Do not reward raw counts of 把 sentences without checking meaning and structure",
+    "The source's historical gender/household generalisations do not describe every family"
+  ],
+  "listeningSolution": {
+    "lesson": 13,
+    "exercisePdf": [
+      230
+    ],
+    "transcriptPdf": [
+      311
+    ],
+    "items": [
+      {
+        "n": 1,
+        "answer": true,
+        "en": "Cleaning the room is requested.",
+        "ru": "Нужно убрать комнату."
+      },
+      {
+        "n": 2,
+        "answer": true,
+        "en": "Washing the clothes is requested.",
+        "ru": "Нужно постирать одежду."
+      },
+      {
+        "n": 3,
+        "answer": true,
+        "en": "The washed clothes should go into the wardrobe.",
+        "ru": "Постиранную одежду нужно положить в шкаф."
+      },
+      {
+        "n": 4,
+        "answer": false,
+        "en": "No cooking is needed because they are going to the cinema.",
+        "ru": "Готовить не нужно, потому что они идут в кино."
+      }
+    ]
+  }
+},
+{
+  "lesson": 14,
+  "semanticPages": [
+    236,
+    253
+  ],
+  "groups": [
+    {
+      "label": "Practice 1",
+      "pdf": [
+        242,
+        243
+      ],
+      "tasks": [
+        "Identify nine illustrated places of interest",
+        "Transform four descriptions into 真…啊 exclamations",
+        "Say where you want to travel with friends"
+      ],
+      "answerType": "image recognition, controlled transformation and personal response"
+    },
+    {
+      "label": "Practice 2",
+      "pdf": [
+        248,
+        249
+      ],
+      "tasks": [
+        "Transform four statements into V不V/A不A questions",
+        "Answer three personal experience questions with 过",
+        "Substitute degree descriptions into 太…了"
+      ],
+      "answerType": "controlled transformation and open experience report"
+    },
+    {
+      "label": "Comprehensive practice",
+      "pdf": [
+        250
+      ],
+      "tasks": [
+        "Listen/read travel vocabulary",
+        "Report a previous trip using guiding questions",
+        "Discuss and report future travel plans"
+      ],
+      "answerType": "oral report/rubric"
+    }
+  ],
+  "extensions": [
+    "Experience 过 versus an intended or specific completed event",
+    "Compare 想 and 打算 with a plan timeline",
+    "L14 还是 selects a preference after considering options, distinct from alternative questions in L15",
+    "Travel illustration map and transport choices"
+  ],
+  "caveats": [
+    "No separate L14 listening script is listed, but the chapter contains listen/read practice",
+    "A student without travel experience can answer 没…过 or use an explicitly fictional scenario",
+    "Culture page PDF252 is source-era travel context, not a current itinerary/recommendation",
+    "Source glossary 行李 =package is misleading; teach luggage"
+  ]
+},
+{
+  "lesson": 15,
+  "semanticPages": [
+    254,
+    272
+  ],
+  "optionalExtension": true,
+  "groups": [
+    {
+      "label": "Practice 1",
+      "pdf": [
+        260,
+        261
+      ],
+      "tasks": [
+        "Form three alternative questions with 还是",
+        "Complete two turns in a train-booking conversation"
+      ],
+      "answerType": "controlled questions and multiple valid dialogue completions"
+    },
+    {
+      "label": "Practice 2",
+      "pdf": [
+        267,
+        268
+      ],
+      "tasks": [
+        "Complete five pictured 该…了 action sentences",
+        "Rewrite four scheduled events with 就要…了",
+        "Three listening true/false statements"
+      ],
+      "answerType": "picture-based, controlled transformation and transcript evidence"
+    },
+    {
+      "label": "Comprehensive practice",
+      "pdf": [
+        269
+      ],
+      "tasks": [
+        "Listen/read airport vocabulary",
+        "Roleplay seeing off a friend",
+        "Use a supplied destination/flight/time/price table to book tickets"
+      ],
+      "answerType": "oral roleplay/rubric"
+    }
+  ],
+  "extensions": [
+    "Alternative questions 还是 versus statements with 或者",
+    "Result complement 好 as an action being completed satisfactorily",
+    "Departure/readiness timeline: 该…了 and time+就要…了"
+  ],
+  "caveats": [
+    "No L15 classroom deck was supplied; label as optional textbook extension",
+    "The dialogue departs at9:40; the distinct listening transcript departs at6:40",
+    "Use fictional ID/card details in roleplay, not real identifiers",
+    "Printed airline, ticketing and check-in instructions are not current travel rules"
+  ],
+  "listeningSolution": {
+    "lesson": 15,
+    "exercisePdf": [
+      268
+    ],
+    "transcriptPdf": [
+      311
+    ],
+    "items": [
+      {
+        "n": 1,
+        "answer": true,
+        "en": "The baggage claim/check-in context confirms luggage.",
+        "ru": "Контекст сдачи багажа подтверждает наличие багажа."
+      },
+      {
+        "n": 2,
+        "answer": false,
+        "en": "The hotel was booked online.",
+        "ru": "Гостиница забронирована через интернет."
+      },
+      {
+        "n": 3,
+        "answer": true,
+        "en": "The listening transcript says 6:40. The separate lesson dialogue uses 9:40; do not substitute the dialogue for this exercise.",
+        "ru": "В тексте аудирования указано 6:40. В отдельном диалоге урока — 9:40; для этого упражнения нельзя подменять аудирование диалогом."
+      }
+    ]
+  }
+}
+]

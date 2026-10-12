@@ -1,0 +1,1633 @@
+{
+  "version": 2,
+  "verifiedAt": "2026-10-12",
+  "licenseScope": {
+    "en": "Bundled OCW files retain their source attribution and CC BY-NC-SA license. New original app prose is separately identified. MIT does not endorse this app.",
+    "ru": "Файлы OCW сохраняют атрибуцию и лицензию CC BY-NC-SA. Новый авторский текст приложения обозначен отдельно. MIT не одобрял это приложение."
+  },
+  "resources": [
+    {
+      "id": "mit1",
+      "title": "Julian K. Wheatley: Learning Chinese — Unit 1",
+      "format": "pdf",
+      "lessons": [
+        1
+      ],
+      "filename": "mit-unit-01.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit01/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Julian K. Wheatley: Learning Chinese — Unit 1, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit01/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-unit-01.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/e997e90bb0ac79ea7d75c3d2f5fcf8b7_MITRES_21G_003S11_unit01.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/e997e90bb0ac79ea7d75c3d2f5fcf8b7_MITRES_21G_003S11_unit01.pdf",
+      "status": "downloaded",
+      "bytes": 432734,
+      "sha256": "e4ed6d757e3d24643638f35df3e4ff26640ec720dace721df5756b00efad254a",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 1,
+          "sourceId": "mit1",
+          "section": "1.4",
+          "focus": {
+            "en": "Quality predicates and questions",
+            "ru": "Предикаты качества и вопросы"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-01.pdf#page=4",
+          "pdfPage": 4,
+          "pdfEndPage": 7
+        }
+      ]
+    },
+    {
+      "id": "mit2",
+      "title": "Julian K. Wheatley: Learning Chinese — Unit 2",
+      "format": "pdf",
+      "lessons": [
+        1,
+        4,
+        9,
+        11
+      ],
+      "filename": "mit-unit-02.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit02/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Julian K. Wheatley: Learning Chinese — Unit 2, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit02/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-unit-02.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/533eaf6eb819cabf6473006586f6ab86_MITRES_21G_003S11_unit02.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/533eaf6eb819cabf6473006586f6ab86_MITRES_21G_003S11_unit02.pdf",
+      "status": "downloaded",
+      "bytes": 677652,
+      "sha256": "c82cdd69171e727697f1a89787e8b6a4c26624dfd456874d2baf90a21a8f40e8",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 1,
+          "sourceId": "mit2",
+          "section": "2.5–2.6",
+          "focus": {
+            "en": "Identity and names",
+            "ru": "Идентификация и имена"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-02.pdf#page=11",
+          "pdfPage": 11,
+          "pdfEndPage": 16
+        },
+        {
+          "lesson": 4,
+          "sourceId": "mit2",
+          "section": "2.2",
+          "focus": {
+            "en": "Scope of adverbs, including 都",
+            "ru": "Область действия наречий, включая 都"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-02.pdf#page=1",
+          "pdfPage": 1,
+          "pdfEndPage": 4
+        },
+        {
+          "lesson": 4,
+          "sourceId": "mit2",
+          "section": "2.7.4",
+          "focus": {
+            "en": "Possession and negation",
+            "ru": "Обладание и отрицание"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-02.pdf#page=19",
+          "pdfPage": 19,
+          "pdfEndPage": 21
+        },
+        {
+          "lesson": 9,
+          "sourceId": "mit2",
+          "section": "2.7",
+          "focus": {
+            "en": "Location versus existence",
+            "ru": "Местонахождение и существование"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-02.pdf#page=16",
+          "pdfPage": 16,
+          "pdfEndPage": 21
+        }
+      ]
+    },
+    {
+      "id": "mit3",
+      "title": "Julian K. Wheatley: Learning Chinese — Unit 3",
+      "format": "pdf",
+      "lessons": [
+        1,
+        3,
+        7,
+        11,
+        12
+      ],
+      "filename": "mit-unit-03.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit03/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Julian K. Wheatley: Learning Chinese — Unit 3, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit03/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-unit-03.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/7413ef603a88dea457928c1f6f8230bc_MITRES_21G_003S11_unit03.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/7413ef603a88dea457928c1f6f8230bc_MITRES_21G_003S11_unit03.pdf",
+      "status": "downloaded",
+      "bytes": 572759,
+      "sha256": "e599e84b4b7df4e035de17884540bac949e4321568f2bb46d1cf48b2317c7fe7",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 3,
+          "sourceId": "mit3",
+          "section": "3.2.2",
+          "focus": {
+            "en": "Counting units",
+            "ru": "Счётные единицы"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-03.pdf#page=2",
+          "pdfPage": 2,
+          "pdfEndPage": 3
+        },
+        {
+          "lesson": 7,
+          "sourceId": "mit3",
+          "section": "3.10",
+          "focus": {
+            "en": "Telephone digit strings",
+            "ru": "Цифры телефонных номеров"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-03.pdf#page=26",
+          "pdfPage": 26,
+          "pdfEndPage": 28
+        },
+        {
+          "lesson": 11,
+          "sourceId": "mit3",
+          "section": "3.2.2",
+          "focus": {
+            "en": "Counting books with 本",
+            "ru": "Счёт книг с 本"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-03.pdf#page=2",
+          "pdfPage": 2,
+          "pdfEndPage": 3
+        },
+        {
+          "lesson": 12,
+          "sourceId": "mit3",
+          "section": "3.2.1",
+          "focus": {
+            "en": "Place-value number building",
+            "ru": "Разрядное построение чисел"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-03.pdf#page=2",
+          "pdfPage": 2,
+          "pdfEndPage": 3
+        }
+      ]
+    },
+    {
+      "id": "mit4",
+      "title": "Julian K. Wheatley: Learning Chinese — Unit 4",
+      "format": "pdf",
+      "lessons": [
+        2,
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "filename": "mit-unit-04.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit04/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Julian K. Wheatley: Learning Chinese — Unit 4, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit04/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-unit-04.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/d235cb303b7d11e1e24cdcd322ac15bc_MITRES_21G_003S11_unit04.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/d235cb303b7d11e1e24cdcd322ac15bc_MITRES_21G_003S11_unit04.pdf",
+      "status": "downloaded",
+      "bytes": 856979,
+      "sha256": "4d9e7591100e7521112628be280f2e337b6c4c5d0fad4efbd3681c7aadc39b10",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 2,
+          "sourceId": "mit4",
+          "section": "4.3",
+          "focus": {
+            "en": "Time phrases and clocks",
+            "ru": "Временные обстоятельства и часы"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-04.pdf#page=7",
+          "pdfPage": 7,
+          "pdfEndPage": 12
+        },
+        {
+          "lesson": 6,
+          "sourceId": "mit4",
+          "section": "4.2",
+          "focus": {
+            "en": "Place vocabulary and location",
+            "ru": "Названия мест и местонахождение"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-04.pdf#page=2",
+          "pdfPage": 2,
+          "pdfEndPage": 6
+        },
+        {
+          "lesson": 7,
+          "sourceId": "mit4",
+          "section": "4.7.4",
+          "focus": {
+            "en": "Actions in progress with 在",
+            "ru": "Текущее действие с 在"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-04.pdf#page=25",
+          "pdfPage": 25,
+          "pdfEndPage": 26
+        },
+        {
+          "lesson": 8,
+          "sourceId": "mit4",
+          "section": "4.3.1–4.3.2",
+          "focus": {
+            "en": "Time and the sentence frame",
+            "ru": "Время и модель предложения"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-04.pdf#page=7",
+          "pdfPage": 7,
+          "pdfEndPage": 9
+        },
+        {
+          "lesson": 9,
+          "sourceId": "mit4",
+          "section": "4.2",
+          "focus": {
+            "en": "Existence/location and place words",
+            "ru": "Существование, местонахождение и названия мест"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-04.pdf#page=2",
+          "pdfPage": 2,
+          "pdfEndPage": 6
+        }
+      ]
+    },
+    {
+      "id": "mit5",
+      "title": "Julian K. Wheatley: Learning Chinese — Unit 5",
+      "format": "pdf",
+      "lessons": [
+        3,
+        5,
+        8,
+        11,
+        14
+      ],
+      "filename": "mit-unit-05.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit05/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Julian K. Wheatley: Learning Chinese — Unit 5, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit05/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-unit-05.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/4b76c3d5e014f4833ef5efa2642b58ae_MITRES_21G_003S11_unit05.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/4b76c3d5e014f4833ef5efa2642b58ae_MITRES_21G_003S11_unit05.pdf",
+      "status": "downloaded",
+      "bytes": 870905,
+      "sha256": "5fba3afc02ec2212840e939aca9d43556ae1673d98167c1ca32fcc6ca963951d",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 3,
+          "sourceId": "mit5",
+          "section": "5.5.3",
+          "focus": {
+            "en": "A little: amount versus judgement",
+            "ru": "Немного: количество и оценка"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-05.pdf#page=10",
+          "pdfPage": 10,
+          "pdfEndPage": 10
+        },
+        {
+          "lesson": 5,
+          "sourceId": "mit5",
+          "section": "5.4",
+          "focus": {
+            "en": "Ordering a meal",
+            "ru": "Заказ еды"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-05.pdf#page=6",
+          "pdfPage": 6,
+          "pdfEndPage": 9
+        },
+        {
+          "lesson": 11,
+          "sourceId": "mit5",
+          "section": "5.5.3–5.5.4",
+          "focus": {
+            "en": "会 / 能 / 可以 and their overlapping uses",
+            "ru": "会 / 能 / 可以 и пересечения значений"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-05.pdf#page=10",
+          "pdfPage": 10,
+          "pdfEndPage": 11
+        },
+        {
+          "lesson": 14,
+          "sourceId": "mit5",
+          "section": "5.11",
+          "focus": {
+            "en": "Completed and uncompleted past events",
+            "ru": "Завершённые и несостоявшиеся прошлые события"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-05.pdf#page=30",
+          "pdfPage": 30,
+          "pdfEndPage": 33
+        }
+      ]
+    },
+    {
+      "id": "mit6",
+      "title": "Julian K. Wheatley: Learning Chinese — Unit 6",
+      "format": "pdf",
+      "lessons": [
+        6,
+        14
+      ],
+      "filename": "mit-unit-06.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit06/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Julian K. Wheatley: Learning Chinese — Unit 6, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit06/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-unit-06.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/ce12c83210a6eacc170b3034f922ddde_MITRES_21G_003S11_unit06.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/ce12c83210a6eacc170b3034f922ddde_MITRES_21G_003S11_unit06.pdf",
+      "status": "downloaded",
+      "bytes": 732629,
+      "sha256": "9cb9a9b7bcf40486fe83287a65270632198128dbd4363fb1f72172e95eb6814b",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 6,
+          "sourceId": "mit6",
+          "section": "6.7",
+          "focus": {
+            "en": "Directions and route instructions",
+            "ru": "Направления и указания пути"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-06.pdf#page=21",
+          "pdfPage": 21,
+          "pdfEndPage": 22
+        },
+        {
+          "lesson": 14,
+          "sourceId": "mit6",
+          "section": "6.3",
+          "focus": {
+            "en": "Experience with 过",
+            "ru": "Опыт с 过"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-06.pdf#page=7",
+          "pdfPage": 7,
+          "pdfEndPage": 13
+        }
+      ]
+    },
+    {
+      "id": "mit7",
+      "title": "Julian K. Wheatley: Learning Chinese — Unit 7",
+      "format": "pdf",
+      "lessons": [
+        5,
+        7,
+        8,
+        11,
+        14
+      ],
+      "filename": "mit-unit-07.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit07/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Julian K. Wheatley: Learning Chinese — Unit 7, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit07/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-unit-07.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/9ac5a3ef1007db50644516dee9a1d249_MITRES_21G_003S11_unit07.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/9ac5a3ef1007db50644516dee9a1d249_MITRES_21G_003S11_unit07.pdf",
+      "status": "downloaded",
+      "bytes": 734425,
+      "sha256": "f09613eb05ca7e3454ee325aeec1b85947eb415212f85f8e945365ecfdb3207c",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 5,
+          "sourceId": "mit7",
+          "section": "7.5",
+          "focus": {
+            "en": "Tea and coffee conversation",
+            "ru": "Разговор о чае и кофе"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-07.pdf#page=15",
+          "pdfPage": 15,
+          "pdfEndPage": 16
+        },
+        {
+          "lesson": 8,
+          "sourceId": "mit7",
+          "section": "7.1.1",
+          "focus": {
+            "en": "Imminence with 快要…了",
+            "ru": "Скорое событие с 快要…了"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-07.pdf#page=2",
+          "pdfPage": 2,
+          "pdfEndPage": 2
+        },
+        {
+          "lesson": 11,
+          "sourceId": "mit7",
+          "section": "7.4",
+          "focus": {
+            "en": "Conversation about language abilities",
+            "ru": "Разговор о языковых умениях"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-07.pdf#page=13",
+          "pdfPage": 13,
+          "pdfEndPage": 14
+        },
+        {
+          "lesson": 14,
+          "sourceId": "mit7",
+          "section": "7.1.4",
+          "focus": {
+            "en": "Plans and return trips",
+            "ru": "Планы и возвращение"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-07.pdf#page=6",
+          "pdfPage": 6,
+          "pdfEndPage": 6
+        }
+      ]
+    },
+    {
+      "id": "mit8",
+      "title": "Julian K. Wheatley: Learning Chinese — Unit 8",
+      "format": "pdf",
+      "lessons": [
+        3,
+        5,
+        8,
+        12
+      ],
+      "filename": "mit-unit-08.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit08/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Julian K. Wheatley: Learning Chinese — Unit 8, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit08/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-unit-08.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/3fb7ed18b72df30602aba28f4e94abe6_MITRES_21G_003S11_unit08.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/3fb7ed18b72df30602aba28f4e94abe6_MITRES_21G_003S11_unit08.pdf",
+      "status": "downloaded",
+      "bytes": 1088347,
+      "sha256": "fcc28e7d78c0c632c658698f87de0f838c1315f248d0f3d99ca6115d725b59be",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 3,
+          "sourceId": "mit8",
+          "section": "8.5–8.5.1",
+          "focus": {
+            "en": "Asking for a lower price",
+            "ru": "Просьба снизить цену"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-08.pdf#page=17",
+          "pdfPage": 17,
+          "pdfEndPage": 19
+        },
+        {
+          "lesson": 5,
+          "sourceId": "mit8",
+          "section": "8.1",
+          "focus": {
+            "en": "A following action with 再",
+            "ru": "Следующее действие с 再"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-08.pdf#page=1",
+          "pdfPage": 1,
+          "pdfEndPage": 2
+        },
+        {
+          "lesson": 8,
+          "sourceId": "mit8",
+          "section": "8.1",
+          "focus": {
+            "en": "Event sequencing",
+            "ru": "Порядок событий"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-08.pdf#page=1",
+          "pdfPage": 1,
+          "pdfEndPage": 2
+        },
+        {
+          "lesson": 12,
+          "sourceId": "mit8",
+          "section": "8.4.3",
+          "focus": {
+            "en": "Large numbers and zero gaps",
+            "ru": "Большие числа и нули в разрядах"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-08.pdf#page=14",
+          "pdfPage": 14,
+          "pdfEndPage": 15
+        },
+        {
+          "lesson": 12,
+          "sourceId": "mit8",
+          "section": "8.1",
+          "focus": {
+            "en": "First … then …",
+            "ru": "Сначала … затем …"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-08.pdf#page=1",
+          "pdfPage": 1,
+          "pdfEndPage": 2
+        }
+      ]
+    },
+    {
+      "id": "mit9",
+      "title": "Julian K. Wheatley: Learning Chinese — Unit 9",
+      "format": "pdf",
+      "lessons": [
+        3,
+        13
+      ],
+      "filename": "mit-unit-09.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit09/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Julian K. Wheatley: Learning Chinese — Unit 9, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit09/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-unit-09.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/56eae0bfe4eb82d1e827bc1b19dff93d_MITRES_21G_003S11_unit09.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/56eae0bfe4eb82d1e827bc1b19dff93d_MITRES_21G_003S11_unit09.pdf",
+      "status": "downloaded",
+      "bytes": 996255,
+      "sha256": "1bc21ea5ddab06a47d6a046b88594cc246cfea9c6fb94666926409aa71864a09",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 3,
+          "sourceId": "mit9",
+          "section": "9.2",
+          "focus": {
+            "en": "Clothing and its classifiers",
+            "ru": "Одежда и счётные слова"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-09.pdf#page=5",
+          "pdfPage": 5,
+          "pdfEndPage": 6
+        },
+        {
+          "lesson": 13,
+          "sourceId": "mit9",
+          "section": "9.7",
+          "focus": {
+            "en": "The affected object in 把 sentences",
+            "ru": "Объект воздействия в предложениях с 把"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-09.pdf#page=21",
+          "pdfPage": 21,
+          "pdfEndPage": 23
+        },
+        {
+          "lesson": 13,
+          "sourceId": "mit9",
+          "section": "9.11",
+          "focus": {
+            "en": "Verb + destination with 在",
+            "ru": "Глагол и конечное положение с 在"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-09.pdf#page=32",
+          "pdfPage": 32,
+          "pdfEndPage": 34
+        }
+      ]
+    },
+    {
+      "id": "mit10",
+      "title": "Julian K. Wheatley: Learning Chinese — Unit 10",
+      "format": "pdf",
+      "lessons": [
+        7,
+        10
+      ],
+      "filename": "mit-unit-10.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit10/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Julian K. Wheatley: Learning Chinese — Unit 10, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit10/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-unit-10.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/d8ba98f52de3d20fe7096e9f1fb74839_MITRES_21G_003S11_unit10.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/d8ba98f52de3d20fe7096e9f1fb74839_MITRES_21G_003S11_unit10.pdf",
+      "status": "downloaded",
+      "bytes": 1231995,
+      "sha256": "5b5fa59c9986220793d79ee50bad643f6c1a43072369022c5ab09a2b6297271a",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 7,
+          "sourceId": "mit10",
+          "section": "10.17",
+          "focus": {
+            "en": "Optional telephone conversation transcript",
+            "ru": "Дополнительный текст телефонного разговора"
+          },
+          "level": "optional",
+          "localHref": "assets/sources/mit-unit-10.pdf#page=39",
+          "pdfPage": 39,
+          "pdfEndPage": 41
+        },
+        {
+          "lesson": 10,
+          "sourceId": "mit10",
+          "section": "10.1",
+          "focus": {
+            "en": "Describing how you feel",
+            "ru": "Описание самочувствия"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-10.pdf#page=1",
+          "pdfPage": 1,
+          "pdfEndPage": 2
+        }
+      ]
+    },
+    {
+      "id": "mit11",
+      "title": "Julian K. Wheatley: Learning Chinese — Unit 11",
+      "format": "pdf",
+      "lessons": [
+        11,
+        13,
+        14
+      ],
+      "filename": "mit-unit-11.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit11/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Julian K. Wheatley: Learning Chinese — Unit 11, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit11/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-unit-11.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/830f96513ffa15abb4fb233b04554cd2_MITRES_21G_003S11_unit11.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/830f96513ffa15abb4fb233b04554cd2_MITRES_21G_003S11_unit11.pdf",
+      "status": "downloaded",
+      "bytes": 795739,
+      "sha256": "3bf8081def6a3077c72c8e309ee7ab385dff68f6dedd7ee9a59822f64a9a9b47",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 11,
+          "sourceId": "mit11",
+          "section": "11.3",
+          "focus": {
+            "en": "Making requests",
+            "ru": "Формулирование просьб"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-11.pdf#page=4",
+          "pdfPage": 4,
+          "pdfEndPage": 6
+        },
+        {
+          "lesson": 13,
+          "sourceId": "mit11",
+          "section": "11.3",
+          "focus": {
+            "en": "Requests and softening",
+            "ru": "Просьбы и смягчение"
+          },
+          "level": "focused",
+          "localHref": "assets/sources/mit-unit-11.pdf#page=4",
+          "pdfPage": 4,
+          "pdfEndPage": 6
+        },
+        {
+          "lesson": 14,
+          "sourceId": "mit11",
+          "section": "11.2",
+          "focus": {
+            "en": "Places to see in Beijing; optional dialogue",
+            "ru": "Что посмотреть в Пекине; дополнительный диалог"
+          },
+          "level": "optional",
+          "localHref": "assets/sources/mit-unit-11.pdf#page=2",
+          "pdfPage": 2,
+          "pdfEndPage": 4
+        }
+      ]
+    },
+    {
+      "id": "mit12",
+      "title": "Julian K. Wheatley: Learning Chinese — Unit 12",
+      "format": "pdf",
+      "lessons": [
+        4
+      ],
+      "filename": "mit-unit-12.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit12/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Julian K. Wheatley: Learning Chinese — Unit 12, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit12/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-unit-12.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/ba5b510d36377261339bda90e19a462d_MITRES_21G_003S11_unit12.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/ba5b510d36377261339bda90e19a462d_MITRES_21G_003S11_unit12.pdf",
+      "status": "downloaded",
+      "bytes": 756894,
+      "sha256": "c63cefa599024b9d475818c2629e37a16dfad74112df486b1d53011ec3ec358e",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 4,
+          "sourceId": "mit12",
+          "section": "12.4",
+          "focus": {
+            "en": "Kinship terms; optional advanced reading",
+            "ru": "Термины родства; дополнительное чтение"
+          },
+          "level": "optional",
+          "localHref": "assets/sources/mit-unit-12.pdf#page=9",
+          "pdfPage": 9,
+          "pdfEndPage": 12
+        }
+      ]
+    },
+    {
+      "id": "mit-pinyin",
+      "title": "Sounds and symbols: An overview of pinyin",
+      "format": "pdf",
+      "lessons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "filename": "mit-pinyin.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_pinyin/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Sounds and symbols: An overview of pinyin, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_pinyin/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-pinyin.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/01af9a25b804b7d58a26fa580691df4f_MITRES_21G_003S11_pinyin.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/01af9a25b804b7d58a26fa580691df4f_MITRES_21G_003S11_pinyin.pdf",
+      "status": "downloaded",
+      "bytes": 407079,
+      "sha256": "6ad187d17e167f43a3b01bf88b456c78dbc47c80d8e48a9d87a87be2e905ffdb",
+      "contentType": "",
+      "focusedSelections": [
+        {
+          "lesson": 1,
+          "sourceId": "mit-pinyin",
+          "section": "1–2",
+          "focus": {
+            "en": "Syllables and tones",
+            "ru": "Слоги и тоны"
+          },
+          "level": "pronunciation",
+          "localHref": "assets/sources/mit-pinyin.pdf#page=2",
+          "pdfPage": 2,
+          "pdfEndPage": 7
+        },
+        {
+          "lesson": 2,
+          "sourceId": "mit-pinyin",
+          "section": "1–2",
+          "focus": {
+            "en": "Syllables and tones",
+            "ru": "Слоги и тоны"
+          },
+          "level": "pronunciation",
+          "localHref": "assets/sources/mit-pinyin.pdf#page=2",
+          "pdfPage": 2,
+          "pdfEndPage": 7
+        }
+      ]
+    },
+    {
+      "id": "mit-char1",
+      "title": "Chinese characters: Lesson 1",
+      "format": "pdf",
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "filename": "mit-characters-01.pdf",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_char01/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Chinese characters: Lesson 1, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_char01/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-characters-01.pdf",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/5d7516aefe6bf45dfb045687830fe27f_MITRES_21G_003S11_char01.pdf",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/5d7516aefe6bf45dfb045687830fe27f_MITRES_21G_003S11_char01.pdf",
+      "status": "downloaded",
+      "bytes": 463206,
+      "sha256": "622d43e514252238952f05834742025dfed39ca01ccc794a90de22b33261a35a",
+      "contentType": "",
+      "focusedSelections": []
+    },
+    {
+      "id": "mit-audio-0-2-3",
+      "title": "The low tone",
+      "format": "mp3",
+      "lessons": [
+        1,
+        2
+      ],
+      "filename": "mit-audio-0-2-3.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/0-2-3/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, The low tone, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/0-2-3/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-0-2-3.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/ddd869cf5c2805a90793f89c78b7bd79_0.2.3.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/ddd869cf5c2805a90793f89c78b7bd79_0.2.3.mp3",
+      "status": "downloaded",
+      "bytes": 142930,
+      "sha256": "075000fd2c71eff814ef1d3e3f108d65d552aaa8c35cae0fda851f23f1fe8626",
+      "contentType": "audio/mpeg",
+      "focusedSelections": []
+    },
+    {
+      "id": "mit-audio-0-3-1",
+      "title": "Initial consonants",
+      "format": "mp3",
+      "lessons": [
+        1,
+        2
+      ],
+      "filename": "mit-audio-0-3-1.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/0-3-1/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Initial consonants, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/0-3-1/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-0-3-1.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/8d96796aa904ec8f974c7a018bb0ade0_0.3.1.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/8d96796aa904ec8f974c7a018bb0ade0_0.3.1.mp3",
+      "status": "downloaded",
+      "bytes": 286187,
+      "sha256": "ca1cca6e440866f617cf3f0fb7cadd3117c224af9b550b1ed06dc8b0d2944ab4",
+      "contentType": "audio/mpeg",
+      "focusedSelections": []
+    },
+    {
+      "id": "mit-audio-1-10-1",
+      "title": "Tone combinations 1",
+      "format": "mp3",
+      "lessons": [
+        1,
+        2,
+        3
+      ],
+      "filename": "mit-audio-1-10-1.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/1-10-1/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Tone combinations 1, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/1-10-1/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-1-10-1.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/567f476588fe2e3735d78a8477be03dd_1.10.1.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/567f476588fe2e3735d78a8477be03dd_1.10.1.mp3",
+      "status": "downloaded",
+      "bytes": 111951,
+      "sha256": "d933ff528f7268434054794a5f9572cc4940924df2f58c3e458a17f063f7569f",
+      "contentType": "audio/mpeg",
+      "focusedSelections": []
+    },
+    {
+      "id": "mit-audio-2-11-3",
+      "title": "Tone combinations 2",
+      "format": "mp3",
+      "lessons": [
+        3,
+        4,
+        5
+      ],
+      "filename": "mit-audio-2-11-3.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/2-11-3/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Tone combinations 2, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/2-11-3/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-2-11-3.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/b381b3956bf0bfcdc3f79e9da998da33_2.11.3.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/b381b3956bf0bfcdc3f79e9da998da33_2.11.3.mp3",
+      "status": "downloaded",
+      "bytes": 145991,
+      "sha256": "5cd39b2aa02f8fc03b3e028f84a4df18ec3aed6a50b3e2dc1ae0bbece1b52df4",
+      "contentType": "audio/mpeg",
+      "focusedSelections": []
+    },
+    {
+      "id": "mit-audio-3-13-1",
+      "title": "Tone combinations 3",
+      "format": "mp3",
+      "lessons": [
+        6,
+        7
+      ],
+      "filename": "mit-audio-3-13-1.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/3-13-1/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Tone combinations 3, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/3-13-1/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-3-13-1.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/7a16268765542436676bae5c29e12b06_3.13.1.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/7a16268765542436676bae5c29e12b06_3.13.1.mp3",
+      "status": "downloaded",
+      "bytes": 80549,
+      "sha256": "72c5c927370cb4f9e92f3cf1bc1ec1059c1df0c548e39332c5a9e7f381f5d134",
+      "contentType": "audio/mpeg",
+      "focusedSelections": []
+    },
+    {
+      "id": "mit-audio-2-4",
+      "title": "Nouns and modification",
+      "format": "mp3",
+      "lessons": [
+        3,
+        4,
+        11
+      ],
+      "filename": "mit-audio-2-4.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/2-4/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Nouns and modification, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/2-4/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-2-4.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/3777e2462bce170fb0479e8997dd9eb2_2.4.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/3777e2462bce170fb0479e8997dd9eb2_2.4.mp3",
+      "status": "downloaded",
+      "bytes": 193099,
+      "sha256": "2687ac7b4c6e73c65ae5e604d56754a70edfa5a145b3c9051c12a7590c1a3409",
+      "contentType": "audio/mpeg",
+      "focusedSelections": []
+    },
+    {
+      "id": "mit-audio-3-4-1",
+      "title": "Direction dialogues",
+      "format": "mp3",
+      "lessons": [
+        6
+      ],
+      "filename": "mit-audio-3-4-1.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/3-4-1/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Direction dialogues, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/3-4-1/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-3-4-1.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/30e6f7a7d59b228663a61b3db337a0de_3.4.1.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/30e6f7a7d59b228663a61b3db337a0de_3.4.1.mp3",
+      "status": "downloaded",
+      "bytes": 457624,
+      "sha256": "5726ae29f492e61fe46b7f8f92478fb37aa8e429876fd572fbdc417beca7df93",
+      "contentType": "audio/mpeg",
+      "focusedSelections": [
+        {
+          "lesson": 6,
+          "sourceId": "mit-audio-3-4-1",
+          "section": "3-4-1",
+          "focus": {
+            "en": "Direction dialogues; compass directions",
+            "ru": "Диалоги о направлениях; стороны света"
+          },
+          "level": "listening",
+          "localHref": "assets/sources/mit-audio-3-4-1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "mit-audio-3-7-1",
+      "title": "Drinks dialogue",
+      "format": "mp3",
+      "lessons": [
+        5
+      ],
+      "filename": "mit-audio-3-7-1.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/3-7-1/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Drinks dialogue, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/3-7-1/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-3-7-1.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/6fa04dfa7f80d18288bd54293de5df32_3.7.1.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/6fa04dfa7f80d18288bd54293de5df32_3.7.1.mp3",
+      "status": "downloaded",
+      "bytes": 195985,
+      "sha256": "2bf393c1f81dce05035bd1a3e16c49136980d6463d28ec25dcb1309a550d9ff7",
+      "contentType": "audio/mpeg",
+      "focusedSelections": []
+    },
+    {
+      "id": "mit-audio-4-2-1",
+      "title": "Places",
+      "format": "mp3",
+      "lessons": [
+        6,
+        9
+      ],
+      "filename": "mit-audio-4-2-1.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/4-2-1/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Places, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/4-2-1/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-4-2-1.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/6b5da9843a31c5bb8a421ff97786e5d4_4.2.1.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/6b5da9843a31c5bb8a421ff97786e5d4_4.2.1.mp3",
+      "status": "downloaded",
+      "bytes": 123781,
+      "sha256": "218408af1f9a1c4261450ba319fc941838beaa1f2ba137c5e0f2ab7d9ad7fda3",
+      "contentType": "audio/mpeg",
+      "focusedSelections": [
+        {
+          "lesson": 6,
+          "sourceId": "mit-audio-4-2-1",
+          "section": "4-2-1",
+          "focus": {
+            "en": "Place vocabulary",
+            "ru": "Названия мест"
+          },
+          "level": "listening",
+          "localHref": "assets/sources/mit-audio-4-2-1.mp3"
+        },
+        {
+          "lesson": 9,
+          "sourceId": "mit-audio-4-2-1",
+          "section": "4-2-1",
+          "focus": {
+            "en": "Place vocabulary",
+            "ru": "Названия мест"
+          },
+          "level": "listening",
+          "localHref": "assets/sources/mit-audio-4-2-1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "mit-audio-5-4-1",
+      "title": "Ordering in a restaurant",
+      "format": "mp3",
+      "lessons": [
+        5
+      ],
+      "filename": "mit-audio-5-4-1.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/5-4-1/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Ordering in a restaurant, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/5-4-1/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-5-4-1.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/ed8ae7da0754807fd8434581e87a8026_5.4.1.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/ed8ae7da0754807fd8434581e87a8026_5.4.1.mp3",
+      "status": "downloaded",
+      "bytes": 230844,
+      "sha256": "1a65a03a47c66c9e2ccc7c801da7d8fd22c861dd1652e9b37d5734c9dee8d2c9",
+      "contentType": "audio/mpeg",
+      "focusedSelections": [
+        {
+          "lesson": 5,
+          "sourceId": "mit-audio-5-4-1",
+          "section": "5-4-1",
+          "focus": {
+            "en": "Restaurant conversation; compare Unit5 §5.4.1",
+            "ru": "Разговор в ресторане; см. Unit5 §5.4.1"
+          },
+          "level": "listening",
+          "localHref": "assets/sources/mit-audio-5-4-1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "mit-audio-6-3-5",
+      "title": "Experience dialogues",
+      "format": "mp3",
+      "lessons": [
+        14
+      ],
+      "filename": "mit-audio-6-3-5.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/6-3-5/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Experience dialogues, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/6-3-5/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-6-3-5.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/8191489cb7579a4b0198b76863f9b70f_6.3.5.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/8191489cb7579a4b0198b76863f9b70f_6.3.5.mp3",
+      "status": "downloaded",
+      "bytes": 242734,
+      "sha256": "4ab4ff3b9c6c45febb0a3537f51c6f653bfd75c41aee168c50df391f441cf294",
+      "contentType": "audio/mpeg",
+      "focusedSelections": [
+        {
+          "lesson": 14,
+          "sourceId": "mit-audio-6-3-5",
+          "section": "6-3-5",
+          "focus": {
+            "en": "Experience dialogues; food and travel",
+            "ru": "Диалоги об опыте; еда и путешествия"
+          },
+          "level": "listening",
+          "localHref": "assets/sources/mit-audio-6-3-5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "mit-audio-7-4",
+      "title": "Language abilities",
+      "format": "mp3",
+      "lessons": [
+        11
+      ],
+      "filename": "mit-audio-7-4.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/7-4/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Language abilities, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/7-4/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-7-4.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/1f3e38b7ca8cd80db39c3582347cc0a7_7.4.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/1f3e38b7ca8cd80db39c3582347cc0a7_7.4.mp3",
+      "status": "downloaded",
+      "bytes": 180487,
+      "sha256": "9300ad80737945785b7f9bff14e5716209ec4445ea8c5b4d8bf47372a8d921ba",
+      "contentType": "audio/mpeg",
+      "focusedSelections": [
+        {
+          "lesson": 11,
+          "sourceId": "mit-audio-7-4",
+          "section": "7-4",
+          "focus": {
+            "en": "Language-ability conversation",
+            "ru": "Разговор о языковых умениях"
+          },
+          "level": "listening",
+          "localHref": "assets/sources/mit-audio-7-4.mp3"
+        }
+      ]
+    },
+    {
+      "id": "mit-audio-7-5",
+      "title": "Tea and coffee",
+      "format": "mp3",
+      "lessons": [
+        5,
+        8
+      ],
+      "filename": "mit-audio-7-5.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/7-5/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Tea and coffee, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/7-5/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-7-5.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/e2b7260e377b2f7150c734b5e2d1d78f_7.5.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/e2b7260e377b2f7150c734b5e2d1d78f_7.5.mp3",
+      "status": "downloaded",
+      "bytes": 372107,
+      "sha256": "176ce9db008c55a159255de490799dee0609cfb136fef7c2b4452097607a3dfb",
+      "contentType": "audio/mpeg",
+      "focusedSelections": [
+        {
+          "lesson": 5,
+          "sourceId": "mit-audio-7-5",
+          "section": "7-5",
+          "focus": {
+            "en": "Tea and coffee conversation; compare Unit7 §7.5",
+            "ru": "Разговор о чае и кофе; см. Unit7 §7.5"
+          },
+          "level": "listening",
+          "localHref": "assets/sources/mit-audio-7-5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "mit-audio-8-1",
+      "title": "Temporal and logical sequence",
+      "format": "mp3",
+      "lessons": [
+        2,
+        8,
+        12
+      ],
+      "filename": "mit-audio-8-1.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/8-1/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Temporal and logical sequence, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/8-1/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-8-1.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/1d1b824225b9cbb23643add3e77e61d7_8.1.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/1d1b824225b9cbb23643add3e77e61d7_8.1.mp3",
+      "status": "downloaded",
+      "bytes": 1680740,
+      "sha256": "f5c01c62ef04b035994bc7eda00e3e56b0086224f32ecbd0976c444bbb0c7804",
+      "contentType": "audio/mpeg",
+      "focusedSelections": [
+        {
+          "lesson": 8,
+          "sourceId": "mit-audio-8-1",
+          "section": "8-1",
+          "focus": {
+            "en": "Temporal sequence; advanced examples",
+            "ru": "Временная последовательность; расширенные примеры"
+          },
+          "level": "listening",
+          "localHref": "assets/sources/mit-audio-8-1.mp3"
+        },
+        {
+          "lesson": 12,
+          "sourceId": "mit-audio-8-1",
+          "section": "8-1",
+          "focus": {
+            "en": "Sequencing examples",
+            "ru": "Примеры последовательности"
+          },
+          "level": "listening",
+          "localHref": "assets/sources/mit-audio-8-1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "mit-audio-9-7",
+      "title": "The 把 construction",
+      "format": "mp3",
+      "lessons": [
+        13
+      ],
+      "filename": "mit-audio-9-7.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/9-7/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, The 把 construction, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/9-7/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-9-7.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/ddad7def4f8c500e253b46fa06fe451a_9.7.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/ddad7def4f8c500e253b46fa06fe451a_9.7.mp3",
+      "status": "downloaded",
+      "bytes": 968648,
+      "sha256": "9cd497fe40ce5cb0b27da95eeccc19a3644c05635bcd4d5e9a7439ed41afa2d1",
+      "contentType": "audio/mpeg",
+      "focusedSelections": [
+        {
+          "lesson": 13,
+          "sourceId": "mit-audio-9-7",
+          "section": "9-7",
+          "focus": {
+            "en": "The 把 construction",
+            "ru": "Конструкция 把"
+          },
+          "level": "listening",
+          "localHref": "assets/sources/mit-audio-9-7.mp3"
+        }
+      ]
+    },
+    {
+      "id": "mit-audio-10-17-1",
+      "title": "Leaving a telephone message",
+      "format": "mp3",
+      "lessons": [
+        7,
+        8
+      ],
+      "filename": "mit-audio-10-17-1.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/10-17-1/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Leaving a telephone message, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/10-17-1/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-10-17-1.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/6105f8ce0a7e5634d07791d7cc81194b_10.17.1.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/6105f8ce0a7e5634d07791d7cc81194b_10.17.1.mp3",
+      "status": "downloaded",
+      "bytes": 418494,
+      "sha256": "4b283cadf7c86249d6bef216bdbad926b7445130ec056da5a0842ffaf15cee86",
+      "contentType": "audio/mpeg",
+      "focusedSelections": [
+        {
+          "lesson": 7,
+          "sourceId": "mit-audio-10-17-1",
+          "section": "10-17-1",
+          "focus": {
+            "en": "Leaving a telephone message",
+            "ru": "Телефонное сообщение"
+          },
+          "level": "listening",
+          "localHref": "assets/sources/mit-audio-10-17-1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "mit-audio-11-2",
+      "title": "Places to see in Beijing",
+      "format": "mp3",
+      "lessons": [
+        14
+      ],
+      "filename": "mit-audio-11-2.mp3",
+      "url": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/11-2/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseEvidenceUrl": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+      "creator": "Julian K. Wheatley",
+      "provider": "MIT OpenCourseWare",
+      "attribution": "Julian K. Wheatley, Places to see in Beijing, Learning Chinese: A Foundation Course in Mandarin, MIT OpenCourseWare (Spring 2011), https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/11-2/. CC BY-NC-SA 4.0. Unmodified file.",
+      "modified": false,
+      "verifiedDate": "2026-10-12",
+      "localTarget": "assets/sources/mit-audio-11-2.mp3",
+      "downloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/23e00d1d68401593f92c4aff13c38da5_11.2.mp3",
+      "finalDownloadUrl": "https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/23e00d1d68401593f92c4aff13c38da5_11.2.mp3",
+      "status": "downloaded",
+      "bytes": 731782,
+      "sha256": "0815a33bcf16c5554a96ac6eb821016a427e07e8380b62eeb42f1b1cd11afb27",
+      "contentType": "audio/mpeg",
+      "focusedSelections": [
+        {
+          "lesson": 14,
+          "sourceId": "mit-audio-11-2",
+          "section": "11-2",
+          "focus": {
+            "en": "Beijing travel conversation",
+            "ru": "Разговор о поездке в Пекин"
+          },
+          "level": "listening",
+          "localHref": "assets/sources/mit-audio-11-2.mp3"
+        }
+      ]
+    },
+    {
+      "id": "sjtu-course1",
+      "title": "Shanghai Jiao Tong University: Mandarin Chinese 1",
+      "url": "https://www.coursera.org/learn/mandarin-chinese-1",
+      "lessons": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "status": "external-only",
+      "format": "course",
+      "reason": {
+        "en": "Public syllabus verified; enrollment-based video files and redistribution permission were not available.",
+        "ru": "Публичная программа проверена; видео с регистрацией и разрешение на распространение недоступны."
+      }
+    },
+    {
+      "id": "sjtu-course2",
+      "title": "Shanghai Jiao Tong University: Mandarin Chinese 2",
+      "url": "https://www.coursera.org/learn/mandarin-chinese-2",
+      "lessons": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "status": "external-only",
+      "format": "course",
+      "reason": {
+        "en": "Public syllabus verified; enrollment-based video files and redistribution permission were not available.",
+        "ru": "Публичная программа проверена; видео с регистрацией и разрешение на распространение недоступны."
+      }
+    },
+    {
+      "id": "sjtu-course3",
+      "title": "Shanghai Jiao Tong University: Mandarin Chinese 3",
+      "url": "https://www.coursera.org/learn/mandarin-chinese-3",
+      "lessons": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "status": "external-only",
+      "format": "course",
+      "reason": {
+        "en": "Public syllabus verified; enrollment-based video files and redistribution permission were not available.",
+        "ru": "Публичная программа проверена; видео с регистрацией и разрешение на распространение недоступны."
+      }
+    },
+    {
+      "id": "hanziwu",
+      "title": "Hanziwu",
+      "url": "https://www.hanziwu.com/ru",
+      "lessons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "status": "external-only",
+      "format": "website",
+      "reason": {
+        "en": "Live handwriting resource; no public reuse license or downloadable teaching package verified.",
+        "ru": "Онлайн-прописи; открытая лицензия или скачиваемый учебный пакет не подтверждены."
+      }
+    }
+  ],
+  "mappingNote": {
+    "en": "PDF page numbers are one-based file pages, not the author’s printed page numbers. A focused selection is optional support; the original app journey is self-contained. Historic cultural examples and prices are not current guidance.",
+    "ru": "Указаны страницы PDF с единицы, а не печатная нумерация автора. Выбранные фрагменты — дополнительная поддержка; урок приложения самодостаточен. Исторические культурные примеры и цены не являются текущими рекомендациями."
+  }
+}

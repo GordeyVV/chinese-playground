@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "mapEntries": 4031,
+  "coveredUniqueSourceStrings": 3301,
+  "workbookContexts": 760,
+  "vocabContexts": 617,
+  "scaffoldTypes": 8,
+  "scaffoldItems": 760,
+  "phoneticsSections": 10,
+  "phoneticsDrills": 30,
+  "checks": [
+    "all source strings covered",
+    "all760 IDs preserved",
+    "all Chinese answers have pinyin",
+    "blank counts preserved",
+    "polyphone and neutral-tone regression cases",
+    "all30 conceptual checks have bilingual prompts, hints and explanations, valid choices and Hanzi/pinyin pairs"
+  ]
+}

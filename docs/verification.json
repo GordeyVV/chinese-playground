@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-12",
+  "automated": [
+    "Learning core: review intervals and caps, pinyin marks/numbers/ü, punctuation normalization, evidence separation, Wilson intervals, queue priority, backup validation and storage failure",
+    "Headless Microsoft Edge: EN/RU, all 14 lesson explanations, reading/resources/word views, every main section",
+    "Desktop 1440px and mobile 390px: no document overflow; analytics table issue fixed",
+    "Flashcard ratings, typed recall, grammar selection, sentence construction and reading feedback",
+    "Handwriting SVG data, freehand input and saved strokes",
+    "Homework first-attempt checking, repeat/reveal handling, saved answers after reload",
+    "Saved lesson notes and JSON export/import roundtrip",
+    "No-Mandarin-voice listening fallback",
+    "Phonetics check",
+    "Service worker: app and lesson14 writing available with network disabled"
+  ],
+  "visual": [
+    "Desktop and Russian mobile home screenshots inspected"
+  ],
+  "not_verified": [
+    "Physical microphone capture and audible playback on the learner device",
+    "Speech recognition provider availability",
+    "GitHub deployment: ZIP prepared, upload left to user",
+    "Author-created answer models were source-checked but have not received an independent instructor certification"
+  ],
+  "sourceIntegrity": "Lesson6 ZIP metadata recovered; lesson5/6 damaged raster media documented. Corresponding book/workbook pages used for cross-checking.",
+  "evidencePolicy": "Self-ratings, guided writing and checked answers are reported separately. No proficiency or pronunciation score is claimed.",
+  "version2": {
+    "date": "2026-10-12T03:34:16.558Z",
+    "delivery": "Folder; no new ZIP requested or created",
+    "passed": [
+      "60 construction cards with pinyin in both languages",
+      "All14 playgrounds and all5 guided-lesson stages, in EN/RU",
+      "Clock preset/full/half/quarter/minutes-to forms, midnight and pointer drag",
+      "Spatial placement, ba negation, decimal/large-number models",
+      "Translator: offline course lookup, local pinyin, explicit online opt-in, byte limit, mocked network response, clipboard",
+      "All10 phonetics topics, tone diagram and supported-answer evidence separation",
+      "Workbook hints, hidden pinyin recall prompts and persisted hint events",
+      "Journal save/reload and adaptive progress JSON export/import",
+      "Desktop1440 and mobile390 layout, mobile translator",
+      "Serviceworker offline clock, guided lessons, pinyin and PDF access",
+      "Pure learning tests: place values, clock geometry, hint/difficulty rules and old backup compatibility"
+    ],
+    "data": {
+      "constructionChecks": 180,
+      "deepLessons": 14,
+      "storyboardFrames": 56,
+      "scenarioStates": 53,
+      "deepChecks": 42,
+      "phoneticsChecks": 30,
+      "workbookHintLadders": 760,
+      "pinyinMapEntries": 4031,
+      "supplementaryPDFs": 14,
+      "supplementaryMP3s": 17
+    },
+    "sourceApiCheck": "Official MyMemory endpoint returned200 and CORS* for4 public sample directions. Browser flow tested with a deterministic mocked response.",
+    "remainingLimits": [
+      "Microphone/speech-recognition depend on learner device permissions and provider availability.",
+      "Free translation availability/quotas are controlled by MyMemory.",
+      "Automatic pinyin fallback may need context for unusual names/polyphones.",
+      "Original SJTU enrollment videos are external; no login-gated files redistributed.",
+      "No GitHub deployment performed; user uploads folder."
+    ]
+  }
+}

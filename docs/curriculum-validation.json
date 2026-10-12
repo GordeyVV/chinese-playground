@@ -1,0 +1,13 @@
+{
+  "valid": true,
+  "lessons": 14,
+  "vocabulary": 617,
+  "uniqueHanziHeadwords": 558,
+  "grammar": 60,
+  "quizzes": 74,
+  "characterTargets": 205,
+  "sentenceBuilders": 42,
+  "indexedHeadwordsInScope": 394,
+  "missingIndexedHeadwords": [],
+  "indexLessonVariance": []
+}

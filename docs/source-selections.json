@@ -1,0 +1,630 @@
+{
+  "1": [
+    {
+      "sourceId": "mit1",
+      "section": "1.4",
+      "focus": {
+        "en": "Quality predicates and questions",
+        "ru": "Предикаты качества и вопросы"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-01.pdf#page=4",
+      "pdfPage": 4,
+      "pdfEndPage": 7
+    },
+    {
+      "sourceId": "mit2",
+      "section": "2.5–2.6",
+      "focus": {
+        "en": "Identity and names",
+        "ru": "Идентификация и имена"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-02.pdf#page=11",
+      "pdfPage": 11,
+      "pdfEndPage": 16
+    },
+    {
+      "sourceId": "mit-pinyin",
+      "section": "1–2",
+      "focus": {
+        "en": "Syllables and tones",
+        "ru": "Слоги и тоны"
+      },
+      "level": "pronunciation",
+      "localHref": "assets/sources/mit-pinyin.pdf#page=2",
+      "pdfPage": 2,
+      "pdfEndPage": 7
+    }
+  ],
+  "2": [
+    {
+      "sourceId": "mit4",
+      "section": "4.3",
+      "focus": {
+        "en": "Time phrases and clocks",
+        "ru": "Временные обстоятельства и часы"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-04.pdf#page=7",
+      "pdfPage": 7,
+      "pdfEndPage": 12
+    },
+    {
+      "sourceId": "mit-pinyin",
+      "section": "1–2",
+      "focus": {
+        "en": "Syllables and tones",
+        "ru": "Слоги и тоны"
+      },
+      "level": "pronunciation",
+      "localHref": "assets/sources/mit-pinyin.pdf#page=2",
+      "pdfPage": 2,
+      "pdfEndPage": 7
+    }
+  ],
+  "3": [
+    {
+      "sourceId": "mit3",
+      "section": "3.2.2",
+      "focus": {
+        "en": "Counting units",
+        "ru": "Счётные единицы"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-03.pdf#page=2",
+      "pdfPage": 2,
+      "pdfEndPage": 3
+    },
+    {
+      "sourceId": "mit5",
+      "section": "5.5.3",
+      "focus": {
+        "en": "A little: amount versus judgement",
+        "ru": "Немного: количество и оценка"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-05.pdf#page=10",
+      "pdfPage": 10,
+      "pdfEndPage": 10
+    },
+    {
+      "sourceId": "mit8",
+      "section": "8.5–8.5.1",
+      "focus": {
+        "en": "Asking for a lower price",
+        "ru": "Просьба снизить цену"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-08.pdf#page=17",
+      "pdfPage": 17,
+      "pdfEndPage": 19
+    },
+    {
+      "sourceId": "mit9",
+      "section": "9.2",
+      "focus": {
+        "en": "Clothing and its classifiers",
+        "ru": "Одежда и счётные слова"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-09.pdf#page=5",
+      "pdfPage": 5,
+      "pdfEndPage": 6
+    }
+  ],
+  "4": [
+    {
+      "sourceId": "mit2",
+      "section": "2.2",
+      "focus": {
+        "en": "Scope of adverbs, including 都",
+        "ru": "Область действия наречий, включая 都"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-02.pdf#page=1",
+      "pdfPage": 1,
+      "pdfEndPage": 4
+    },
+    {
+      "sourceId": "mit2",
+      "section": "2.7.4",
+      "focus": {
+        "en": "Possession and negation",
+        "ru": "Обладание и отрицание"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-02.pdf#page=19",
+      "pdfPage": 19,
+      "pdfEndPage": 21
+    },
+    {
+      "sourceId": "mit12",
+      "section": "12.4",
+      "focus": {
+        "en": "Kinship terms; optional advanced reading",
+        "ru": "Термины родства; дополнительное чтение"
+      },
+      "level": "optional",
+      "localHref": "assets/sources/mit-unit-12.pdf#page=9",
+      "pdfPage": 9,
+      "pdfEndPage": 12
+    }
+  ],
+  "5": [
+    {
+      "sourceId": "mit5",
+      "section": "5.4",
+      "focus": {
+        "en": "Ordering a meal",
+        "ru": "Заказ еды"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-05.pdf#page=6",
+      "pdfPage": 6,
+      "pdfEndPage": 9
+    },
+    {
+      "sourceId": "mit7",
+      "section": "7.5",
+      "focus": {
+        "en": "Tea and coffee conversation",
+        "ru": "Разговор о чае и кофе"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-07.pdf#page=15",
+      "pdfPage": 15,
+      "pdfEndPage": 16
+    },
+    {
+      "sourceId": "mit8",
+      "section": "8.1",
+      "focus": {
+        "en": "A following action with 再",
+        "ru": "Следующее действие с 再"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-08.pdf#page=1",
+      "pdfPage": 1,
+      "pdfEndPage": 2
+    },
+    {
+      "sourceId": "mit-audio-5-4-1",
+      "section": "5-4-1",
+      "focus": {
+        "en": "Restaurant conversation; compare Unit5 §5.4.1",
+        "ru": "Разговор в ресторане; см. Unit5 §5.4.1"
+      },
+      "level": "listening",
+      "localHref": "assets/sources/mit-audio-5-4-1.mp3"
+    },
+    {
+      "sourceId": "mit-audio-7-5",
+      "section": "7-5",
+      "focus": {
+        "en": "Tea and coffee conversation; compare Unit7 §7.5",
+        "ru": "Разговор о чае и кофе; см. Unit7 §7.5"
+      },
+      "level": "listening",
+      "localHref": "assets/sources/mit-audio-7-5.mp3"
+    }
+  ],
+  "6": [
+    {
+      "sourceId": "mit6",
+      "section": "6.7",
+      "focus": {
+        "en": "Directions and route instructions",
+        "ru": "Направления и указания пути"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-06.pdf#page=21",
+      "pdfPage": 21,
+      "pdfEndPage": 22
+    },
+    {
+      "sourceId": "mit4",
+      "section": "4.2",
+      "focus": {
+        "en": "Place vocabulary and location",
+        "ru": "Названия мест и местонахождение"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-04.pdf#page=2",
+      "pdfPage": 2,
+      "pdfEndPage": 6
+    },
+    {
+      "sourceId": "mit-audio-3-4-1",
+      "section": "3-4-1",
+      "focus": {
+        "en": "Direction dialogues; compass directions",
+        "ru": "Диалоги о направлениях; стороны света"
+      },
+      "level": "listening",
+      "localHref": "assets/sources/mit-audio-3-4-1.mp3"
+    },
+    {
+      "sourceId": "mit-audio-4-2-1",
+      "section": "4-2-1",
+      "focus": {
+        "en": "Place vocabulary",
+        "ru": "Названия мест"
+      },
+      "level": "listening",
+      "localHref": "assets/sources/mit-audio-4-2-1.mp3"
+    }
+  ],
+  "7": [
+    {
+      "sourceId": "mit3",
+      "section": "3.10",
+      "focus": {
+        "en": "Telephone digit strings",
+        "ru": "Цифры телефонных номеров"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-03.pdf#page=26",
+      "pdfPage": 26,
+      "pdfEndPage": 28
+    },
+    {
+      "sourceId": "mit4",
+      "section": "4.7.4",
+      "focus": {
+        "en": "Actions in progress with 在",
+        "ru": "Текущее действие с 在"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-04.pdf#page=25",
+      "pdfPage": 25,
+      "pdfEndPage": 26
+    },
+    {
+      "sourceId": "mit10",
+      "section": "10.17",
+      "focus": {
+        "en": "Optional telephone conversation transcript",
+        "ru": "Дополнительный текст телефонного разговора"
+      },
+      "level": "optional",
+      "localHref": "assets/sources/mit-unit-10.pdf#page=39",
+      "pdfPage": 39,
+      "pdfEndPage": 41
+    },
+    {
+      "sourceId": "mit-audio-10-17-1",
+      "section": "10-17-1",
+      "focus": {
+        "en": "Leaving a telephone message",
+        "ru": "Телефонное сообщение"
+      },
+      "level": "listening",
+      "localHref": "assets/sources/mit-audio-10-17-1.mp3"
+    }
+  ],
+  "8": [
+    {
+      "sourceId": "mit4",
+      "section": "4.3.1–4.3.2",
+      "focus": {
+        "en": "Time and the sentence frame",
+        "ru": "Время и модель предложения"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-04.pdf#page=7",
+      "pdfPage": 7,
+      "pdfEndPage": 9
+    },
+    {
+      "sourceId": "mit7",
+      "section": "7.1.1",
+      "focus": {
+        "en": "Imminence with 快要…了",
+        "ru": "Скорое событие с 快要…了"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-07.pdf#page=2",
+      "pdfPage": 2,
+      "pdfEndPage": 2
+    },
+    {
+      "sourceId": "mit8",
+      "section": "8.1",
+      "focus": {
+        "en": "Event sequencing",
+        "ru": "Порядок событий"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-08.pdf#page=1",
+      "pdfPage": 1,
+      "pdfEndPage": 2
+    },
+    {
+      "sourceId": "mit-audio-8-1",
+      "section": "8-1",
+      "focus": {
+        "en": "Temporal sequence; advanced examples",
+        "ru": "Временная последовательность; расширенные примеры"
+      },
+      "level": "listening",
+      "localHref": "assets/sources/mit-audio-8-1.mp3"
+    }
+  ],
+  "9": [
+    {
+      "sourceId": "mit2",
+      "section": "2.7",
+      "focus": {
+        "en": "Location versus existence",
+        "ru": "Местонахождение и существование"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-02.pdf#page=16",
+      "pdfPage": 16,
+      "pdfEndPage": 21
+    },
+    {
+      "sourceId": "mit4",
+      "section": "4.2",
+      "focus": {
+        "en": "Existence/location and place words",
+        "ru": "Существование, местонахождение и названия мест"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-04.pdf#page=2",
+      "pdfPage": 2,
+      "pdfEndPage": 6
+    },
+    {
+      "sourceId": "mit-audio-4-2-1",
+      "section": "4-2-1",
+      "focus": {
+        "en": "Place vocabulary",
+        "ru": "Названия мест"
+      },
+      "level": "listening",
+      "localHref": "assets/sources/mit-audio-4-2-1.mp3"
+    }
+  ],
+  "10": [
+    {
+      "sourceId": "mit10",
+      "section": "10.1",
+      "focus": {
+        "en": "Describing how you feel",
+        "ru": "Описание самочувствия"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-10.pdf#page=1",
+      "pdfPage": 1,
+      "pdfEndPage": 2
+    }
+  ],
+  "11": [
+    {
+      "sourceId": "mit5",
+      "section": "5.5.3–5.5.4",
+      "focus": {
+        "en": "会 / 能 / 可以 and their overlapping uses",
+        "ru": "会 / 能 / 可以 и пересечения значений"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-05.pdf#page=10",
+      "pdfPage": 10,
+      "pdfEndPage": 11
+    },
+    {
+      "sourceId": "mit3",
+      "section": "3.2.2",
+      "focus": {
+        "en": "Counting books with 本",
+        "ru": "Счёт книг с 本"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-03.pdf#page=2",
+      "pdfPage": 2,
+      "pdfEndPage": 3
+    },
+    {
+      "sourceId": "mit7",
+      "section": "7.4",
+      "focus": {
+        "en": "Conversation about language abilities",
+        "ru": "Разговор о языковых умениях"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-07.pdf#page=13",
+      "pdfPage": 13,
+      "pdfEndPage": 14
+    },
+    {
+      "sourceId": "mit11",
+      "section": "11.3",
+      "focus": {
+        "en": "Making requests",
+        "ru": "Формулирование просьб"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-11.pdf#page=4",
+      "pdfPage": 4,
+      "pdfEndPage": 6
+    },
+    {
+      "sourceId": "mit-audio-7-4",
+      "section": "7-4",
+      "focus": {
+        "en": "Language-ability conversation",
+        "ru": "Разговор о языковых умениях"
+      },
+      "level": "listening",
+      "localHref": "assets/sources/mit-audio-7-4.mp3"
+    }
+  ],
+  "12": [
+    {
+      "sourceId": "mit3",
+      "section": "3.2.1",
+      "focus": {
+        "en": "Place-value number building",
+        "ru": "Разрядное построение чисел"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-03.pdf#page=2",
+      "pdfPage": 2,
+      "pdfEndPage": 3
+    },
+    {
+      "sourceId": "mit8",
+      "section": "8.4.3",
+      "focus": {
+        "en": "Large numbers and zero gaps",
+        "ru": "Большие числа и нули в разрядах"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-08.pdf#page=14",
+      "pdfPage": 14,
+      "pdfEndPage": 15
+    },
+    {
+      "sourceId": "mit8",
+      "section": "8.1",
+      "focus": {
+        "en": "First … then …",
+        "ru": "Сначала … затем …"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-08.pdf#page=1",
+      "pdfPage": 1,
+      "pdfEndPage": 2
+    },
+    {
+      "sourceId": "mit-audio-8-1",
+      "section": "8-1",
+      "focus": {
+        "en": "Sequencing examples",
+        "ru": "Примеры последовательности"
+      },
+      "level": "listening",
+      "localHref": "assets/sources/mit-audio-8-1.mp3"
+    }
+  ],
+  "13": [
+    {
+      "sourceId": "mit9",
+      "section": "9.7",
+      "focus": {
+        "en": "The affected object in 把 sentences",
+        "ru": "Объект воздействия в предложениях с 把"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-09.pdf#page=21",
+      "pdfPage": 21,
+      "pdfEndPage": 23
+    },
+    {
+      "sourceId": "mit9",
+      "section": "9.11",
+      "focus": {
+        "en": "Verb + destination with 在",
+        "ru": "Глагол и конечное положение с 在"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-09.pdf#page=32",
+      "pdfPage": 32,
+      "pdfEndPage": 34
+    },
+    {
+      "sourceId": "mit11",
+      "section": "11.3",
+      "focus": {
+        "en": "Requests and softening",
+        "ru": "Просьбы и смягчение"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-11.pdf#page=4",
+      "pdfPage": 4,
+      "pdfEndPage": 6
+    },
+    {
+      "sourceId": "mit-audio-9-7",
+      "section": "9-7",
+      "focus": {
+        "en": "The 把 construction",
+        "ru": "Конструкция 把"
+      },
+      "level": "listening",
+      "localHref": "assets/sources/mit-audio-9-7.mp3"
+    }
+  ],
+  "14": [
+    {
+      "sourceId": "mit5",
+      "section": "5.11",
+      "focus": {
+        "en": "Completed and uncompleted past events",
+        "ru": "Завершённые и несостоявшиеся прошлые события"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-05.pdf#page=30",
+      "pdfPage": 30,
+      "pdfEndPage": 33
+    },
+    {
+      "sourceId": "mit6",
+      "section": "6.3",
+      "focus": {
+        "en": "Experience with 过",
+        "ru": "Опыт с 过"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-06.pdf#page=7",
+      "pdfPage": 7,
+      "pdfEndPage": 13
+    },
+    {
+      "sourceId": "mit7",
+      "section": "7.1.4",
+      "focus": {
+        "en": "Plans and return trips",
+        "ru": "Планы и возвращение"
+      },
+      "level": "focused",
+      "localHref": "assets/sources/mit-unit-07.pdf#page=6",
+      "pdfPage": 6,
+      "pdfEndPage": 6
+    },
+    {
+      "sourceId": "mit11",
+      "section": "11.2",
+      "focus": {
+        "en": "Places to see in Beijing; optional dialogue",
+        "ru": "Что посмотреть в Пекине; дополнительный диалог"
+      },
+      "level": "optional",
+      "localHref": "assets/sources/mit-unit-11.pdf#page=2",
+      "pdfPage": 2,
+      "pdfEndPage": 4
+    },
+    {
+      "sourceId": "mit-audio-6-3-5",
+      "section": "6-3-5",
+      "focus": {
+        "en": "Experience dialogues; food and travel",
+        "ru": "Диалоги об опыте; еда и путешествия"
+      },
+      "level": "listening",
+      "localHref": "assets/sources/mit-audio-6-3-5.mp3"
+    },
+    {
+      "sourceId": "mit-audio-11-2",
+      "section": "11-2",
+      "focus": {
+        "en": "Beijing travel conversation",
+        "ru": "Разговор о поездке в Пекин"
+      },
+      "level": "listening",
+      "localHref": "assets/sources/mit-audio-11-2.mp3"
+    }
+  ]
+}

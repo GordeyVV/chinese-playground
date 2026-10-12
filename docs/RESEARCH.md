@@ -1,0 +1,84 @@
+# Research and complementary learning resources / Методика и дополнительные материалы
+
+Verified / Проверено: 11 October 2026. This document records design recommendations; it does not certify that every recommendation is implemented. / Документ содержит рекомендации, а не подтверждение реализации каждой функции.
+
+The supplied classes remain the curriculum. External resources supplement specific difficult points; their unit numbers and level differ. The machine-readable bilingual catalogue is in `research.json`. / Основой остаются предоставленные занятия. Внешние материалы поясняют отдельные трудности; их порядок и уровень отличаются. Двуязычный каталог находится в `research.json`.
+
+## Evidence and practical consequences / Исследования и решения
+
+| Method / Метод | Consequence / Практическое решение | Evidence / Источник |
+|---|---|---|
+| Recall before revealing / Вспомнить до показа ответа | Hide answers; ask for a committed attempt; revisit words even after one success. Скрывать ответ; сначала просить попытку; возвращать слова после первого успеха. | [Karpicke & Roediger (2008), The Critical Importance of Retrieval for Learning](https://learninglab.psych.purdue.edu/downloads/2008/2008_Karpicke_Roediger_Science.pdf) |
+| Space practice across days / Распределять занятия по дням | Schedule due reviews, shorten intervals after errors, and allow catch-up without punishment. Назначать повторения, сокращать интервал после ошибок, разрешать наверстать без штрафов. | [Kim & Webb (2022), The Effects of Spaced Practice on Second Language Learning](https://onlinelibrary.wiley.com/doi/abs/10.1111/lang.12479) |
+| Correct the error, then retry / Разобрать ошибку и повторить | Show the answer and a short reason after an attempt; retry later without the hint. После попытки показать ответ и причину; позже повторить без подсказки. | [Li et al. (2024), Retrieval Practice plus Feedback Benefits a Third Language Vocabulary Learning](https://eric.ed.gov/?id=EJ1420152) |
+| Use maps as retrieval prompts / Использовать карты для воспроизведения | Use compact family, place, or word-family maps; hide branches and rebuild them from memory. Создавать небольшие карты семьи, мест и слов; скрывать ветви и восстанавливать по памяти. | [Karpicke & Blunt (2011), Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping](https://learninglab.psych.purdue.edu/downloads/2011/2011_Karpicke_Blunt_Science.pdf) |
+| Connect writing, reading, and sound / Соединять письмо, чтение и звук | Observe strokes, trace once, hide the model, write from memory, then read aloud. Посмотреть черты, обвести, скрыть образец, написать по памяти, прочитать вслух. | [Guan et al. (2011), Writing Strengthens Orthography and Alphabetic-Coding Strengthens Phonology in Learning to Read Chinese](https://sites.pitt.edu/~perfetti/PDF/Writing%20strengthens%20Guan%20JEP.pdf) |
+| Train perception and production separately / Отдельно тренировать слух и произношение | Identify meaningful tone contrasts, repeat phrases, record and compare; introduce unfamiliar voices gradually. Различать значимые тоны, повторять фразы, записывать и сравнивать; постепенно добавлять незнакомые голоса. | [Dong et al. (2019), The effects of high versus low talker variability and individual aptitude on phonetic training of Mandarin lexical tones](https://pmc.ncbi.nlm.nih.gov/articles/PMC6690337/) |
+
+These findings support a design direction, not a claim that this playground is clinically or psychometrically validated. Research populations, tasks and retention delays differ. The spacing synthesis is broader evidence; individual vocabulary, writing and tone studies answer narrower questions. / Эти результаты поддерживают направление разработки, но не означают клиническую или психометрическую валидацию приложения. Выборки, задания и интервалы проверки различаются. Метаанализ даёт более широкую картину, отдельные исследования отвечают на узкие вопросы.
+
+## Verified lesson supplements / Проверенные дополнения по урокам
+
+The links below point to Julian K. Wheatley's MIT OpenCourseWare teaching materials. English source explanations are paired with original Russian learning guidance in the JSON catalogue. Select only the indicated sections; a complete MIT chapter can be substantially harder than the corresponding class. / Ссылки ведут к учебным материалам Джулиана Уитли, MIT OpenCourseWare. В JSON к английским источникам добавлены авторские русские пояснения. Выбирать указанные разделы: целая глава MIT может быть заметно сложнее занятия.
+
+| Class / Урок | Topic / Тема | Target / Раздел | Verified supplement / Проверенное дополнение |
+|---|---|---|---|
+| 1 | Greetings / Знакомство | 1.8–1.10; 2.5–2.6 | [MIT OCW — Unit 1](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit01/); [MIT OCW — Unit 2](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit02/) |
+| 2 | Time / Время | 4.3.1–4.3.2 | [MIT OCW — Unit 4](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit04/) |
+| 3 | Shopping / Покупки | 3.2; 3.9 | [MIT OCW — Unit 3](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit03/) |
+| 4 | Family / Семья | 2.4; 2.7.5 | [MIT OCW — Unit 2](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit02/) |
+| 5 | Food / Еда | 5.2; 5.4 | [MIT OCW — Unit 5](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit05/) |
+| 6 | Directions / Дорога | 6.7 | [MIT OCW — Unit 6](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit06/) |
+| 7 | Phone numbers / Номер телефона | 3.10.1 | [MIT OCW — Unit 3](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit03/) |
+| 8 | Getting in touch / Дела и встречи | 5.10; 7.6.1 | [MIT OCW — Unit 5](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit05/); [MIT OCW — Unit 7](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit07/) |
+| 9 | Locating objects / Где предметы | 4.2 | [MIT OCW — Unit 4](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit04/) |
+| 10 | Feeling unwell / Самочувствие | 10.1; body-parts appendix | [MIT OCW — Unit 10](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit10/) |
+| 11 | Library books / Библиотечные книги | 2.4.1; 11.3 | [MIT OCW — Unit 2](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit02/); [MIT OCW — Unit 11](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit11/) |
+| 12 | Currency exchange / Обмен валюты | 3.9.1 | [MIT OCW — Unit 3](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit03/) |
+| 13 | Cleaning and 把 / Уборка и 把 | 9.7; 11.3.3 | [MIT OCW — Unit 9](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit09/); [MIT OCW — Unit 11](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit11/) |
+| 14 | Travel / Путешествие | 5.9; 7.6.3 | [MIT OCW — Unit 5](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit05/); [MIT OCW — Unit 7](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_unit07/) |
+
+Foundations / Основы: [pinyin and pronunciation / пиньинь и произношение](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_pinyin/); [character structure / структура иероглифов](https://ocw.mit.edu/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/resources/mitres_21g_003s11_char01/); [Hanziwu in Russian / Hanziwu на русском](https://www.hanziwu.com/ru).
+
+Each lesson's JSON includes a short explanation bridge and an original interactive activity. The bridge is an analogy or scaffold, not a statement that Chinese is intrinsically illogical. Learners bring different expectations from Russian and English. / Для каждого урока в JSON предложены краткое интуитивное пояснение и интерактивное задание. Аналогия помогает освоению, но не объявляет китайский нелогичным: русскоязычные и англоязычные ученики приходят с разными ожиданиями.
+
+## Adaptive practice and honest analytics / Адаптация и корректная аналитика
+
+Recommended event model / Рекомендуемая запись события: item ID, lesson ID, skill, timestamp, first attempt or retry, correctness, hint use, answer revealed, self-rating, and review due date. Keep writing assistance and speaking self-ratings identifiable. / Идентификатор задания, урок, навык, время, первая попытка или повтор, верность, подсказки, показ ответа, самооценка и дата повторения. Помощь при письме и самооценка речи должны быть различимы.
+
+Show numerator and denominator next to every percentage; display a no-data state instead of zero mastery. Compare similar task types. Separate the last 7 or 30 days from lifetime totals, and distinguish new items from repeated prompts. A high success rate after hints is useful practice evidence but a weaker retention signal. / Рядом с процентом показывать числитель и знаменатель; отсутствие данных не равно нулевому освоению. Сравнивать похожие задания. Отделять последние 7 или 30 дней от всех результатов, новые задания от повторов. Успех с подсказкой полезен, но слабее отражает удержание.
+
+An explainable queue can prioritise overdue cards, repeated errors and neglected skills. Show reasons such as 'due yesterday' or '2 errors in 4 independent attempts'. Use a capped queue so a missed week does not create an impossible session. These are original product recommendations, not an empirically validated scoring formula. / Объяснимая очередь может учитывать просрочку, повторные ошибки и редко тренируемые навыки. Показывать причины: «срок был вчера», «2 ошибки в 4 самостоятельных попытках». Ограничивать очередь, чтобы пропущенная неделя не создавала непосильное занятие. Это проектные рекомендации, не валидированная формула.
+
+Do not combine transcription matches, self-assessment, tracing completion and objective quiz accuracy into one unqualified proficiency percentage. Avoid confidence intervals that assume repeated answers are independent samples. / Не объединять распознанный текст, самооценку, завершённое обведение и объективную проверку в единый необъяснённый процент владения. Не использовать интервалы, предполагающие независимость повторных ответов.
+
+## Writing, speech and resource constraints / Письмо, речь и ограничения
+
+[Hanzi Writer documentation](https://hanziwriter.org/docs.html) supports local character-data loading and quiz events. Save assisted tracing separately from writing without a visible model. The library and its data have distinct licenses. / Документация поддерживает локальную загрузку данных и события проверки. Отдельно учитывать обведение и письмо без видимого образца. У библиотеки и данных разные лицензии.
+
+Code: [MIT license](https://raw.githubusercontent.com/chanind/hanzi-writer/master/LICENSE), David Chanin. Stroke data: [Arphic Public License](https://raw.githubusercontent.com/chanind/hanzi-writer-data/master/ARPHICPL.TXT); preserve the complete unchanged license with redistributed data and identify modifications. Keep the [Make Me a Hanzi / Arphic attribution](https://github.com/chanind/hanzi-writer/blob/master/COPYING.md). / Код: MIT, Дэвид Чанин. Данные черт: Arphic Public License; сохранять полный неизменённый текст лицензии и указывать модификации. Сохранить атрибуцию Make Me a Hanzi / Arphic.
+
+Hanziwu's Russian homepage was verified for external search and writing practice. No public integration API was verified. Link to it as an optional practice destination. / Проверена русская главная страница Hanziwu с поиском и письмом. Публичный API не проверен. Использовать как дополнительную внешнюю практику.
+
+Speech synthesis depends on [voices available on the device](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis/getVoices); detect a Chinese voice and offer a visible fallback. [Microphone access](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia) requires permission and a secure context. [Recognition](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) has uneven browser support and may send audio to a server. Explain that before activating it. / Синтез зависит от голосов устройства; обнаруживать китайский голос и показывать альтернативу. Микрофону нужны разрешение и защищённый контекст. Поддержка распознавания различается; звук может передаваться серверу. Объяснить это до включения.
+
+A transcript is a hypothesis about words, not an acoustic evaluation of tones. Offer playback, comparison and explicit self-ratings; reserve confident pronunciation assessment for a teacher or a validated assessment system. / Распознанный текст — гипотеза о словах, не акустическая оценка тонов. Предлагать прослушивание, сравнение и явную самооценку; надёжную оценку произношения оставлять преподавателю или валидированной системе.
+
+Invented component stories must say 'memory aid'. Distinguish a useful present-day shape association from historical etymology and phonetic function. Trace–hide–recall is a proposed practice sequence; it should not be presented as a guaranteed learning algorithm. / Придуманные истории о компонентах помечать «мнемоника». Различать современную ассоциацию формы, историческую этимологию и фонетическую функцию. «Обвести — скрыть — вспомнить» — предложенный порядок практики, не гарантированный алгоритм обучения.
+
+## Scope and verification / Границы и проверка
+
+- The research uses authored papers, official technical documentation and university teaching resources. / Использованы авторские статьи, официальная техническая документация и университетские материалы.
+- AllSet Grammar Wiki returned HTTP 403; it is excluded from the verified catalogue. / AllSet Grammar Wiki вернул HTTP 403 и исключён из проверенного каталога.
+- The feedback study was checked through its author abstract in ERIC; the publisher full text returned 403. / Исследование обратной связи проверено по авторской аннотации ERIC; полный текст издателя вернул 403.
+- MIT source dates are older; use linguistic explanations, not historical exchange rates, telephone infrastructure or travel arrangements as current facts. / Материалы MIT давние: использовать языковые объяснения, не исторические курсы валют, телефонию и организацию поездок как актуальные факты.
+- Russian annotations are original and are not official MIT translations. / Русские пояснения авторские и не являются официальным переводом MIT.
+- Workbook solutions must be grounded in the supplied pages, with suggested answers distinguished from an official key and open-ended tasks marked accordingly. / Решения рабочей тетради должны опираться на её страницы; предлагаемые ответы отделяются от официального ключа, свободные задания явно обозначаются.
+
+
+
+## Exact textbook companion courses / Видеокурсы авторов учебника
+
+Verified public syllabi: [course 1](https://www.coursera.org/learn/mandarin-chinese-1) matches lessons 1–5; [course 2](https://www.coursera.org/learn/mandarin-chinese-2) matches 6–10; [course 3](https://www.coursera.org/learn/mandarin-chinese-3) matches 11–15. Each textbook lesson maps to two consecutive modules. These offer a human-video complement; platform enrollment/payment conditions apply. Full videos were not audited or copied.
+
+Проверены открытые программы: курс 1 соответствует урокам 1–5, курс 2 — 6–10, курс 3 — 11–15. На каждый урок приходятся два последовательных модуля. Это дополнение с видеозанятиями преподавателей; действуют условия регистрации/оплаты платформы. Полные видео не анализировались и не копировались.

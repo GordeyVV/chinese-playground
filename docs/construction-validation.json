@@ -1,0 +1,34 @@
+{
+  "constructions": 60,
+  "challenges": 180,
+  "stableIds": true,
+  "pinyinCoverage": "all patterns, examples, Chinese contexts and choices",
+  "perLesson": {
+    "1": 4,
+    "2": 4,
+    "3": 4,
+    "4": 4,
+    "5": 5,
+    "6": 4,
+    "7": 5,
+    "8": 4,
+    "9": 4,
+    "10": 5,
+    "11": 4,
+    "12": 4,
+    "13": 4,
+    "14": 5
+  },
+  "difficultyCounts": {
+    "1": 60,
+    "2": 60,
+    "3": 60
+  },
+  "correctPositionCounts": {
+    "0": 73,
+    "1": 68,
+    "2": 39
+  },
+  "sourceMapping": "All 60 sourceGrammarId values and JSON pointers match the source dataset; sourceRefs retain the verified lesson source ranges.",
+  "review": "All recognition keys checked against actual source examples; original questions and bilingual meanings reviewed. Numeric contexts use digits to avoid revealing their answer. Browser behavior is outside this content validation."
+}
